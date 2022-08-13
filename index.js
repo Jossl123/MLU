@@ -15,8 +15,14 @@ var maps = {
     "la_carte_des_dimensions_et_des_sous_mondes": {
         "description": "MLU second pic",
         "path": {
-            "255.0.0": "le_desert_de_l'oubli",
-            "0.255.0": "la_carte_des_dimensions_et_des_sous_mondes"
+            "255.0.0": "le_desert_de_l_oubli",
+            "0.255.0": "l_over_nine",
+            "0.0.255": "l_enfer",
+            "255.255.0": "royaume_des_cauchemards",
+            "255.0.255": "monde_oublie",
+            "0.255.255": "le_lit_du_monde",
+            "255.255.255": "seau_de_lave",
+            "128.0.0": "inconnu"
         }
     },
 }
@@ -57,6 +63,7 @@ function show_col() {
     var blue = imageData.data[index + 2];
     mouse.color = `${red}.${green}.${blue}`
     document.getElementById("color").innerHTML = maps[pos].path[mouse.color]
+    console.log(mouse.color)
 }
 
 function load_map(src) {
