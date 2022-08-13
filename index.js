@@ -14,6 +14,7 @@ function back() {
 function change_pos(npos) {
     pos = npos
     document.getElementById("img").setAttribute("src", `./views/pictures/${pos}.png`)
+    document.getElementById("next_map").innerHTML = ""
     document.getElementById("description").innerHTML = maps[pos].infos.description
     document.getElementById("title").innerHTML = maps[pos].infos.title
     imageData = load_map(`./views/maps/${pos}.png`)
@@ -41,8 +42,8 @@ function get_col() {
     var green = imageData.data[index + 1];
     var blue = imageData.data[index + 2];
     mouse.color = `${red}.${green}.${blue}`
-    if (maps[pos].path[mouse.color]) document.getElementById("color").innerHTML = maps[maps[pos].path[mouse.color]].infos.title
-    else document.getElementById("color").innerHTML = ""
+    if (maps[pos].path[mouse.color]) document.getElementById("next_map").innerHTML = maps[maps[pos].path[mouse.color]].infos.title
+    else document.getElementById("next_map").innerHTML = ""
 }
 
 function load_map(src) {
@@ -60,3 +61,4 @@ function load_map(src) {
     mapImage.src = src
 }
 document.addEventListener("click", mouse_click);
+change_pos(pos)
