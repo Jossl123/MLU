@@ -2,7 +2,7 @@ var pos = "MLU"
 var path = [pos]
 var mouse = { x: 0, y: 0, color: '0.0.O' }
 var mapCanvas, mapImage, ratio
-var imageData = load_map('./views/maps/MLU.png')
+var imageData = load_map(`./views/maps/${pos}.png`)
 
 function back() {
     if (path.length <= 1) return
@@ -14,6 +14,8 @@ function back() {
 function change_pos(npos) {
     pos = npos
     document.getElementById("img").setAttribute("src", `./views/pictures/${pos}.png`)
+    document.getElementById("description").innerHTML = maps[pos].infos.description
+    document.getElementById("title").innerHTML = maps[pos].infos.title
     imageData = load_map(`./views/maps/${pos}.png`)
 }
 
@@ -24,7 +26,6 @@ function mouse_click(e) {
         change_pos(name)
     }
 }
-document.addEventListener("click", mouse_click);
 
 function mouse_position(e) {
     var bo = document.getElementById("img").getBoundingClientRect()
@@ -58,3 +59,4 @@ function load_map(src) {
     };
     mapImage.src = src
 }
+document.addEventListener("click", mouse_click);

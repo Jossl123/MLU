@@ -30,7 +30,7 @@ var maps = {
     "la_carte_des_dimensions_et_des_sous_mondes": {
         "infos": {
             "title": "La carte des dimensions et des sous mondes",
-            "description": "",
+            "description": "L'accès vers tous les mondes",
         },
         "path": {
             "255.0.0": "le_desert_de_l_oubli",
@@ -39,7 +39,7 @@ var maps = {
             "255.255.0": "royaume_des_cauchemards",
             "255.0.255": "monde_oublie",
             "0.255.255": "le_lit_du_monde",
-            "255.255.255": "seau_de_lave",
+            "255.255.255": "sceau_de_lave",
             "128.0.0": "inconnu"
         }
     },
@@ -97,10 +97,10 @@ var maps = {
         },
         "path": {}
     },
-    "seau_de_lave": {
+    "sceau_de_lave": {
         "infos": {
-            "title": "Le seau de lave",
-            "description": "",
+            "title": "Le sceau de lave",
+            "description": "C'est de la lave dedans",
         },
         "path": {
             "255.0.0": "stratos",
@@ -110,7 +110,7 @@ var maps = {
     "stratos": {
         "infos": {
             "title": "Stratos",
-            "description": "",
+            "description": "Des batiments encore",
         },
         "path": {}
     },
