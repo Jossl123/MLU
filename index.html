@@ -6,12 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://unpkg.com/tailwindcss@^2.0/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@700&display=swap" rel="stylesheet">
 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <title>MLU</title>
 </head>
 
-<body class="h-full flex" onmousemove="mouse_position(event)">
+<body class="h-full flex" style="font-family: 'Silkscreen', cursive;" onmousemove="mouse_position(event)">
     <div class="flex-1">
         <img id="img" class="object-cover" style="image-rendering: pixelated;width:-webkit-fill-available;" id="img" src="./views/pictures/MLU.png" alt="" srcset="">
     </div>
@@ -21,6 +24,7 @@
                 <span class="material-symbols-outlined">undo</span>
             </button>
             <p id="next_map"></p>
+            <p class="text-gray-400" id="next_map_ph">(La prochaine destination)</p>
         </div>
         <h4 class="text-5xl" id="title"></h4>
         <div id="description"></div>
