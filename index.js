@@ -1,44 +1,5 @@
 var pos = "MLU"
 var path = [pos]
-var maps = {
-    "MLU": {
-        "description": "MLU first pic",
-        "path": {
-            "255.0.0": "l_espace_blanc",
-            "0.255.0": "la_carte_des_dimensions_et_des_sous_mondes"
-        }
-    },
-    "l_espace_blanc": {
-        "description": "MLU second pic",
-        "path": {}
-    },
-    "la_carte_des_dimensions_et_des_sous_mondes": {
-        "description": "MLU second pic",
-        "path": {
-            "255.0.0": "le_desert_de_l_oubli",
-            "0.255.0": "l_over_nine",
-            "0.0.255": "l_enfer",
-            "255.255.0": "royaume_des_cauchemards",
-            "255.0.255": "monde_oublie",
-            "0.255.255": "le_lit_du_monde",
-            "255.255.255": "seau_de_lave",
-            "128.0.0": "inconnu"
-        }
-    },
-    "seau_de_lave": {
-        "description": "MLU second pic",
-        "path": {
-            "255.0.0": "stratos",
-            "0.255.0": "la_dimension_des_cites"
-        }
-    },
-    "la_dimension_des_cites": {
-        "description": "stratos",
-        "path": {
-            "255.0.0": "neoki"
-        }
-    },
-}
 var mouse = { x: 0, y: 0, color: '0.0.O' }
 var mapCanvas, mapImage, ratio
 var imageData = load_map('./views/maps/MLU.png')
@@ -46,18 +7,21 @@ var imageData = load_map('./views/maps/MLU.png')
 function back() {
     if (path.length <= 1) return
     path.pop()
-    pos = path[path.length - 1]
-    document.getElementById("img").setAttribute("src", `./views/pictures/${path[path.length -1]}.png`)
-    imageData = load_map(`./views/maps/${path[path.length -1]}.png`)
+    var name = path[path.length - 1]
+    change_pos(name)
+}
+
+function change_pos(npos) {
+    pos = npos
+    document.getElementById("img").setAttribute("src", `./views/pictures/${pos}.png`)
+    imageData = load_map(`./views/maps/${pos}.png`)
 }
 
 function mouse_click(e) {
     if (mouse.color in (maps[pos]).path) {
         var name = maps[pos].path[mouse.color]
-        pos = name
-        path.push(pos)
-        document.getElementById("img").setAttribute("src", `./views/pictures/${name}.png`)
-        imageData = load_map(`./views/maps/${name}.png`)
+        path.push(name)
+        change_pos(name)
     }
 }
 document.addEventListener("click", mouse_click);
@@ -66,18 +30,18 @@ function mouse_position(e) {
     var bo = document.getElementById("img").getBoundingClientRect()
     mouse.x = Math.floor((e.clientX - bo.x) / ratio);
     mouse.y = Math.floor((e.clientY - bo.y) / ratio);
-    show_col()
+    get_col()
 }
 
-function show_col() {
+function get_col() {
     if (!(mouse.y < mapCanvas.height && mouse.x < mapCanvas.width)) return
     var index = (mouse.y * imageData.width + mouse.x) * 4;
     var red = imageData.data[index];
     var green = imageData.data[index + 1];
     var blue = imageData.data[index + 2];
     mouse.color = `${red}.${green}.${blue}`
-    document.getElementById("color").innerHTML = maps[pos].path[mouse.color]
-    console.log(mouse.color)
+    if (maps[pos].path[mouse.color]) document.getElementById("color").innerHTML = maps[maps[pos].path[mouse.color]].infos.title
+    else document.getElementById("color").innerHTML = ""
 }
 
 function load_map(src) {

@@ -6,15 +6,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://unpkg.com/tailwindcss@^2.0/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
     <title>MLU</title>
 </head>
 
-<body class="h-full" onmousemove="mouse_position(event)">
-    <div class="flex flex-col  justify-center">
-        <img id="img" class="border-2" style="image-rendering: pixelated;" id="img" src="./views/pictures/MLU.png" alt="" srcset="">
-        <p id="color">o</p>
-        <button onclick="back()">back</button>
+<body class="h-full flex" onmousemove="mouse_position(event)">
+    <div class="flex-1">
+        <img id="img" class="object-cover" style="image-rendering: pixelated;width:-webkit-fill-available;" id="img" src="./views/pictures/MLU.png" alt="" srcset="">
     </div>
+    <div class="flex-1 p-4">
+        <div class="flex">
+            <button class="rounded border-4 border-red-500 bg-red-500" onclick="back()">
+                <span class="material-symbols-outlined">undo</span>
+            </button>
+            <p id="color"></p>
+        </div>
+        <div id="description"></div>
+    </div>
+    <script src="map.js"></script>
     <script src="index.js"></script>
 </body>
 
