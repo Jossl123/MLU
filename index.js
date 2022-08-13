@@ -8,7 +8,7 @@ var maps = {
             "0.255.0": "la_carte_des_dimensions_et_des_sous_mondes"
         }
     },
-    "l'espace_blanc": {
+    "l_espace_blanc": {
         "description": "MLU second pic",
         "path": {}
     },
@@ -23,6 +23,19 @@ var maps = {
             "0.255.255": "le_lit_du_monde",
             "255.255.255": "seau_de_lave",
             "128.0.0": "inconnu"
+        }
+    },
+    "seau_de_lave": {
+        "description": "MLU second pic",
+        "path": {
+            "255.0.0": "stratos",
+            "0.255.0": "la_dimension_des_cites"
+        }
+    },
+    "la_dimension_des_cites": {
+        "description": "stratos",
+        "path": {
+            "255.0.0": "neoki"
         }
     },
 }
@@ -50,8 +63,9 @@ function mouse_click(e) {
 document.addEventListener("click", mouse_click);
 
 function mouse_position(e) {
-    mouse.x = Math.floor(e.clientX / ratio);
-    mouse.y = Math.floor(e.clientY / ratio);
+    var bo = document.getElementById("img").getBoundingClientRect()
+    mouse.x = Math.floor((e.clientX - bo.x) / ratio);
+    mouse.y = Math.floor((e.clientY - bo.y) / ratio);
     show_col()
 }
 
@@ -76,7 +90,7 @@ function load_map(src) {
         var context = mapCanvas.getContext('2d');
         context.drawImage(mapImage, 0, 0);
         imageData = context.getImageData(0, 0, mapCanvas.width, mapCanvas.height);
-        ratio = (window.innerHeight / mapImage.height)
+        ratio = (document.getElementById("img").height / mapImage.height)
     };
     mapImage.src = src
 }
