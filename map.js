@@ -45,7 +45,7 @@ var maps = {
     },
     "la_dimension_des_cites": {
         "infos": {
-            "title": "La dimension des cités",
+            "title": "Enilma,
             "description": "",
         },
         "path": {
@@ -99,7 +99,7 @@ var maps = {
     },
     "sceau_de_lave": {
         "infos": {
-            "title": "Le sceau de lave",
+            "title": "Le monde des cités",
             "description": "C'est de la lave dedans",
         },
         "path": {
