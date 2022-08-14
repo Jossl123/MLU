@@ -45,7 +45,7 @@ var maps = {
     },
     "la_dimension_des_cites": {
         "infos": {
-            "title": "Enilma,
+            "title": "Enilma",
             "description": "",
         },
         "path": {
