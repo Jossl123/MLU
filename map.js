@@ -39,10 +39,24 @@ var maps = {
         },
         "path": {}
     },
+    "l_hotel_lyric": {
+        "infos": {
+            "title": "L'hotel lyric",
+            "description": "",
+        },
+        "path": {}
+    },
     "l_over_nine": {
         "infos": {
             "title": "L'Over Nine",
             "description": "",
+        },
+        "path": {}
+    },
+    "l_UH": {
+        "infos": {
+            "title": "L'UH",
+            "description": "L'Union de l'Humanitée",
         },
         "path": {}
     },
@@ -76,13 +90,6 @@ var maps = {
         },
         "path": {}
     },
-    "le_couloir": {
-        "infos": {
-            "title": "Le couloir",
-            "description": "",
-        },
-        "path": {}
-    },
     "le_desert_de_l_oubli": {
         "infos": {
             "title": "Le désert de l'oubli",
@@ -96,7 +103,7 @@ var maps = {
             "description": "",
         },
         "path": {
-            "255.0.0": "le_couloir",
+            "255.0.0": "l_hotel_lyric",
             "0.255.0": "l_entree_de_la_scene",
         }
     },
@@ -116,7 +123,7 @@ var maps = {
             "255.0.0": "stratos",
             "0.255.0": "enilma",
             "0.0.255": "la_lune_de_sang",
-            "255.0.255": "le_monde_des_cites"
+            "255.0.255": "l_UH"
         }
     },
     "MLU": {
