@@ -114,7 +114,7 @@ var maps = {
     "MLU": {
         "infos": {
             "title": "Le Max littérature univers",
-            "description": "",
+            "description": "Le Max Littérature Univers (MLU) est un univers littéraire où prennent place beaucoup d’histoires parfois avec des liens entre elles. L’univers consiste en un livre sans couverture ouvert en éventail dont chaque page est une réalité. Cet univers est régi par une entité omnisciente nommée l’Oeil car il se manifesterait de la sorte. Personne ne sait s'il existe réellement mais des religions lui sont dédiées à travers le multivers, ont dit de lui qu’il ne fait que observé et qu’il n’est ni bon ni mauvais, pourtant parfois il agit bel et bien laissant ses motivations floues. Les personnes ayant une capacité de vision du quatrième mur disent qu’il agirait pour le bien du "scénario" ou du “script”. Il est normalement impossible de passer d’une page à une autre et il n’existe pas une infinité de réalité, en effet le livre de l’univers ne comporte qu’une trentaine de pages qui sont généralement toutes les mêmes questionnant leur utilité.",
         },
         "path": {
             "255.0.0": "l_espace_blanc",
