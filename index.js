@@ -13,7 +13,8 @@ function back() {
 
 function change_pos(npos) {
     pos = npos
-    document.getElementById("img").setAttribute("src", `./views/pictures/${pos}.png`)
+    if (maps[pos].infos.frames > 1) document.getElementById("img").setAttribute("src", `./views/pictures/${pos}_1.png`)
+    else document.getElementById("img").setAttribute("src", `./views/pictures/${pos}.png`)
     document.getElementById("next_map").innerHTML = ""
     document.getElementById("next_map_ph").innerHTML = "(La prochaine destination)"
     document.getElementById("description").innerHTML = maps[pos].infos.description
@@ -68,3 +69,17 @@ function load_map(src) {
 }
 document.addEventListener("click", mouse_click);
 change_pos(pos)
+var frame = 0
+
+function change_frame() {
+    if (maps[pos].infos.frames > 1) {
+        frame += 1
+        if (maps[pos].infos.frames <= frame) {
+            frame = 0
+        }
+        document.getElementById("img").setAttribute("src", `./views/pictures/${pos}_${frame+1}.png`)
+    }
+}
+const interval = setInterval(function() {
+    change_frame()
+}, 700);

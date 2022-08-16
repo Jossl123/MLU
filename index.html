@@ -15,10 +15,10 @@
 </head>
 
 <body class="h-full flex" style="font-family: 'Silkscreen', cursive;" onmousemove="mouse_position(event)">
-    <div class="flex-1">
-        <img id="img" class="object-cover" style="image-rendering: pixelated;width:-webkit-fill-available;" id="img" src="./views/pictures/MLU.png" alt="" srcset="">
+    <div class="flex-1 p-2">
+        <img id="img" class="object-cover rounded" style="image-rendering: pixelated;width:-webkit-fill-available;" id="img" src="./views/pictures/MLU_1.png" alt="" srcset="">
     </div>
-    <div class="flex-1 p-4">
+    <div class="flex-1 p-2">
         <div class="flex">
             <button class="rounded border-4 border-red-500 bg-red-500" onclick="back()">
                 <span class="material-symbols-outlined">undo</span>
@@ -27,6 +27,7 @@
             <p class="text-gray-400" id="next_map_ph">(La prochaine destination)</p>
         </div>
         <h4 class="text-5xl" id="title"></h4>
+        <hr>
         <div id="description"></div>
     </div>
     <script src="map.js"></script>
