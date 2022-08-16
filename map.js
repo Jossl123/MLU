@@ -1,4 +1,13 @@
 var maps = {
+    "enilma": {
+        "infos": {
+            "title": "Enilma",
+            "description": "",
+        },
+        "path": {
+            "255.0.0": "neoki"
+        }
+    },
     "inconnu": {
         "infos": {
             "title": "???",
@@ -10,6 +19,13 @@ var maps = {
         "infos": {
             "title": "L'enfer",
             "description": "L'enfer est une grotte supposément Infini qui se situe sous le sol du monde et fait partie des sous sol du monde inatteignable sauf par les technologies de l'Over nine où par des portails. Comme on peut s'y attendre, c'est un endroit rocheux et chaud où coule de la lave en abondance, mais à un point extrême, respirer dedans fait s'engouffrer un air brûlant dans le corps humain peut charger en oxygène. Au bout de trois respiration l'être humain devient faible puis finit par s'effondrer, concernant les roches elles sont partout brûlante capable de vous retirer la peau si vous y toucher. Pour y traverser il vous faudra avoir des chaussures épaisses et du matériel d'escalade. Dedans on peut y retrouver la race de monstre la plus puissante : Les Berserk. Des squelettes à là tête de feux en armure lourde, ils sont le fantôme d'anciens guerriers puissants et puisent leur force effrayante de leur haine qui grandit petit à petit. Au plus un Berserk vie longtemps au plus il est puissant c'est ainsi que dans l'Over nine in groupe est chargé de traquer tous ceux qui existe pour éviter l'existence d'un Berserk invincible, une légende jamais fondé cours que dans l'obscurité de la grotte seulement éclairé par le magma un Berserk vivant depuis le début du monde vie. Ils sont quasiment tous armés d'une épée mais de rares spécimens ont une lance. L'enfer est donc un lieux extrêmement dangereux tant à cause de ses monstres que à cause de l'environnement, cependant comparé aux autres étages il ne semble pas avoir une fonction particulière à part là preseyde Berserk.",
+        },
+        "path": {}
+    },
+    "l_entree_de_la_scene": {
+        "infos": {
+            "title": "L'entrée de la scène ",
+            "description": "",
         },
         "path": {}
     },
@@ -39,23 +55,42 @@ var maps = {
             "255.255.0": "royaume_des_cauchemards",
             "255.0.255": "monde_oublie",
             "0.255.255": "le_lit_du_monde",
-            "255.255.255": "sceau_de_lave",
+            "255.255.255": "le_monde_des_cites",
             "128.0.0": "inconnu"
         }
     },
-    "la_dimension_des_cites": {
+    "la_lune_de_sang": {
         "infos": {
-            "title": "Enilma",
+            "title": "La lune de sang",
             "description": "",
         },
-        "path": {
-            "255.0.0": "neoki"
-        }
+        "path": {}
+    },
+    "la_scene": {
+        "infos": {
+            "title": "La scène",
+            "description": "",
+        },
+        "path": {}
+    },
+    "le_couloir": {
+        "infos": {
+            "title": "Le couloir",
+            "description": "",
+        },
+        "path": {}
     },
     "le_desert_de_l_oubli": {
         "infos": {
             "title": "Le désert de l'oubli",
             "description": "Le désert de l'oubli est un sous étage du monde et est une étendue infini de sable où tombe tout ce qui est oublié par une personne et qui est non vivant. Si plusieurs personnes oublient l'existence d'un building, des répliques de celui-ci tomberont dans le désert, le nombre de répliques qui tombe sera calqué sur le nombre de personnes qui l'ont oublié. Cependant ces choses non vivantes ne peuvent dépasser la taille d'un building. L'endroit est calme, il n'est pas particulièrement chaud malgré la présence d'un soleil. Quelques variations du désert ont pu être observées notamment avec des endroits où le sable devient gris clair, nous vous déconseillons d'y aller par manque de connaissance de cet endroit. À part la chute d'objets l'endroit ne semble pas particulièrement dangereux cependant y rester longtemps pourrait l'être puisque au bout d'une journée (la nuit ne venant jamais) un fort sentiment de détresse psychologique se manifeste en plus d'impression de fourmis avançant sous la peau. Comparé à d'autres étages, celui-ci ne peut être accédé par des portails. Les seul moyen d'y accéder sont les technologies de l'Over nine ou par de court rêve n'ayant aucun impact sur la vie réel.",
+        },
+        "path": {}
+    },
+    "le_faux_stratos": {
+        "infos": {
+            "title": "Le faux Stratos",
+            "description": "",
         },
         "path": {}
     },
@@ -65,6 +100,16 @@ var maps = {
             "description": "",
         },
         "path": {}
+    },
+    "le_monde_des_cites": {
+        "infos": {
+            "title": "Le monde des cités",
+            "description": "C'est de la lave dedans",
+        },
+        "path": {
+            "255.0.0": "stratos",
+            "0.255.0": "enilma"
+        }
     },
     "MLU": {
         "infos": {
@@ -96,16 +141,6 @@ var maps = {
             "description": "Le royaume des cauchemar est une étendue vide, il y fait noir complet cependant de manière anormale malgré l'absence totale de lumière ont est capable d'y voir tout notre corp, l'endroit où l'ont marche et nos compagnons. Il prend la forme d'une étendue noir avec comme sol de l'eau froide de quelques millimètres de profondeur. Toute personne y entrant le fait soit par des portails soit par la porte située en enfer qui apparaît contre un mur après un certain temps de marche, soit évidemment par les technologies de l'Over nine. Ainsi tout le monde est au même point de départ : une porte en bois et devant un pont en bois sur l'eau qui part dans le noir. Concernant les portails de l'endroit ils se situent dans n'importe quel miroir existant après l'apparition de 'Nightmare' dedans qui est une entité humanoïde vivant là bas. Parfois elle apparaît dans les miroirs pour pousser les gens à entrer et s'en nourrit. L'endroit est quasiment inoffensif, le but est marché sur le pont sans en descendre, si vous réussissez vous atteindraient une nouvelle porte vers le prochain sous sol, mais si vous le quitter même que de quelques mètres jamais vous ne le retrouverez puisque l'endroit crée des illusions, vous ne ferez que vous perdre encore plus en bougeait, il ne vous reste plus qu'à attendre Nightmare pour qu'il vienne se repaître de votre peau. Même sur le pont il y à des risques d'illusion chez les gens avec quelques traumatismes, mais rien qui en vous fera bouger, vous serez immobiles jusqu'à la fin de votre illusion. L'endroit est légèrement frais et ne comporte aucune autre menace que Nightmare qui à chaque fois que quelqu'un fait un cauchemar vient dans le rêve et se transforme en monstre. Restez y trop longtemps et probablement que la situation deviendra hors de contrôle. Certaines personnes racontent que Nightmare représente l'intégralité des créatures cauchemardesques dans nos rêves et notre mort se solde par un simple réveil, hors une personne dans le coma faisant un rêve et se faisant tuer par Nightmare meurt dans la vraie vie.",
         },
         "path": {}
-    },
-    "sceau_de_lave": {
-        "infos": {
-            "title": "Le monde des cités",
-            "description": "C'est de la lave dedans",
-        },
-        "path": {
-            "255.0.0": "stratos",
-            "0.255.0": "la_dimension_des_cites"
-        }
     },
     "stratos": {
         "infos": {
