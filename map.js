@@ -100,7 +100,7 @@ var maps = {
     "sceau_de_lave": {
         "infos": {
             "title": "Le monde des cités",
-            "description": "C'est de la lave dedans",
+            "description": "La dimension des citées est une des nombreuses dimensions existantes dans le MLU, elle consiste en un monde ressemblant au nôtre après un excès de pollution causant guerres nucléaires et catastrophes naturelles ayant dévasté notre monde, ainsi cette dimension n’a pas plusieurs galaxies ou autre ce n’est qu’une planète. Les quelques humains restant essayent de se regrouper en créant d'immenses villes appelé “cité”. La plupart d’entres elles ont gardé quelques innovations humaines mais la majorité ont sombré dans une regression technologique après la disparition de la plus part des ressources énergétiques, ce monde est composé d’une citée réel et de trois fausse cité consistant en un projet de L’Union de l’humanité en mettant trois société à l’abris de la vérité: l'existence de la lune de sang. Les trois autres sociétés sont enfermées dans une boule mécanique sans le savoir mimant un cycle jour nuit. Cependant même au sein de ces citée préservé il y à de fort écart entre riches et pauvres et l’influence de Marin y est présente étant un des rares ayant réussi à trouvé un moyen de outrepassé la sécurité d’entrée et de sortie, lui permettant de passer librement entre Elima son siège et le vrai Stratos entourant le désert corrompu. La dimension est animée par des problèmes politiques et de ressources naturel/énergétique.",
         },
         "path": {
             "255.0.0": "stratos",
