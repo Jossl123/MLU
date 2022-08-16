@@ -14,7 +14,7 @@
     <title>MLU</title>
 </head>
 
-<body class="h-full flex" style="font-family: 'Silkscreen', cursive;" onmousemove="mouse_position(event)">
+<body class="h-full flex bg-gray-900 text-gray-400" style="font-family: 'Silkscreen', cursive;" onmousemove="mouse_position(event)">
     <div class="flex-1 p-2">
         <img id="img" class="object-cover rounded" style="image-rendering: pixelated;width:-webkit-fill-available;" id="img" src="./views/pictures/MLU_1.png" alt="" srcset="">
     </div>
@@ -27,7 +27,10 @@
             <p class="text-gray-400" id="next_map_ph">(La prochaine destination)</p>
         </div>
         <h4 class="text-5xl" id="title"></h4>
-        <hr>
+        <hr class="" style="
+        height: 1px;
+        background-color: rgb(156 163 175);
+        border: none;">
         <div id="description"></div>
     </div>
     <script src="map.js"></script>

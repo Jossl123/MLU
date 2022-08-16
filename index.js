@@ -83,3 +83,8 @@ function change_frame() {
 const interval = setInterval(function() {
     change_frame()
 }, 700);
+
+window.onresize = () => {
+    change_pos(pos)
+    imageData = load_map(`./views/maps/${pos}.png`)
+}
