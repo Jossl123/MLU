@@ -5,7 +5,8 @@ var maps = {
             "description": "",
         },
         "path": {
-            "255.0.0": "neoki"
+            "255.0.0": "neoki",
+            "0.255.0": "le_faux_stratos",
         }
     },
     "inconnu": {
@@ -27,7 +28,9 @@ var maps = {
             "title": "L'entrée de la scène ",
             "description": "",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "la_scene",
+        }
     },
     "l_espace_blanc": {
         "infos": {
@@ -92,7 +95,10 @@ var maps = {
             "title": "Le faux Stratos",
             "description": "",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "le_couloir",
+            "0.255.0": "l_entree_de_la_scene",
+        }
     },
     "le_lit_du_monde": {
         "infos": {
@@ -108,13 +114,15 @@ var maps = {
         },
         "path": {
             "255.0.0": "stratos",
-            "0.255.0": "enilma"
+            "0.255.0": "enilma",
+            "0.0.255": "la_lune_de_sang",
+            "255.0.255": "le_monde_des_cites"
         }
     },
     "MLU": {
         "infos": {
             "title": "Le Max littérature univers",
-            "description": "Le Max Littérature Univers (MLU) est un univers littéraire où prennent place beaucoup d’histoires parfois avec des liens entre elles. L’univers consiste en un livre sans couverture ouvert en éventail dont chaque page est une réalité. Cet univers est régi par une entité omnisciente nommée l’Oeil car il se manifesterait de la sorte. Personne ne sait s'il existe réellement mais des religions lui sont dédiées à travers le multivers, ont dit de lui qu’il ne fait que observé et qu’il n’est ni bon ni mauvais, pourtant parfois il agit bel et bien laissant ses motivations floues. Les personnes ayant une capacité de vision du quatrième mur disent qu’il agirait pour le bien du "scénario" ou du “script”. Il est normalement impossible de passer d’une page à une autre et il n’existe pas une infinité de réalité, en effet le livre de l’univers ne comporte qu’une trentaine de pages qui sont généralement toutes les mêmes questionnant leur utilité.",
+            "description": "Le Max Littérature Univers (MLU) est un univers littéraire où prennent place beaucoup d’histoires parfois avec des liens entre elles. L’univers consiste en un livre sans couverture ouvert en éventail dont chaque page est une réalité. Cet univers est régi par une entité omnisciente nommée l’Oeil car il se manifesterait de la sorte. Personne ne sait s'il existe réellement mais des religions lui sont dédiées à travers le multivers, ont dit de lui qu’il ne fait que observé et qu’il n’est ni bon ni mauvais, pourtant parfois il agit bel et bien laissant ses motivations floues. Les personnes ayant une capacité de vision du quatrième mur disent qu’il agirait pour le bien du 'scénario' ou du “script”. Il est normalement impossible de passer d’une page à une autre et il n’existe pas une infinité de réalité, en effet le livre de l’univers ne comporte qu’une trentaine de pages qui sont généralement toutes les mêmes questionnant leur utilité.",
         },
         "path": {
             "255.0.0": "l_espace_blanc",
