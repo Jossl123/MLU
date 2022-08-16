@@ -57,7 +57,7 @@ var maps = {
         "infos": {
             "title": "L'Over Nine",
             "description": "",
-            "frames": "1",
+            "frames": "3",
         },
         "path": {}
     },
