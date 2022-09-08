@@ -89,7 +89,16 @@ window.onresize = () => {
     imageData = load_map(`./views/maps/${pos}.png`)
 }
 
-function myFunction() {
+document.addEventListener("mouseup", function(e) {
     var popup = document.getElementById("help");
-    popup.classList.toggle("show");
+    if (e.target.id != "help") popup.classList.add("hidden");
+});
+
+function help() {
+    var popup = document.getElementById("help");
+    if (popup.classList.contains("hidden")) {
+        popup.classList.remove("hidden");
+    } else {
+        popup.classList.add("hidden");
+    }
 }

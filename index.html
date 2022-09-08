@@ -14,15 +14,21 @@
     <title>MLU</title>
 </head>
 
-<body class="h-full flex bg-gray-900 text-gray-400" style="font-family: 'Silkscreen', cursive;" onmousemove="mouse_position(event)">
+<body id="body" class="h-full flex bg-gray-900 text-gray-400" style="font-family: 'Silkscreen', cursive;" onmousemove="mouse_position(event)">
     <div class="flex-1 p-2">
         <img id="img" class="object-cover rounded" style="image-rendering: pixelated;width:-webkit-fill-available;" id="img" src="./views/pictures/MLU_1.png" alt="" srcset="">
     </div>
     <div class="flex-1 p-2">
         <div class="flex">
-            <button class="rounded-full px-2 border-gray-500 bg-gray-500 mr-2" onclick="back()">
+            <button class="rounded-full px-2 border-gray-500 bg-gray-500 mr-2" onclick="help()">
                 <span class="material-symbols-outlined">question_mark</span>
             </button>
+            <div id="help" class="hidden absolute bg-gray-200 p-2 rounded m-4">
+                Ce site est une carte interactive vous montrant les mondes du Max littérature univers avec une description accompagné d'une image en pixel art. Vous devrez cliquer et chercher les zones cliquable pour voyager dans cet univers, si vous êtes un nouveau
+                dans cet univers c'est l'occasion de le découvrir ou si vous êtes un habitué, de voir le monde d'un nouvel oeil. En passant votre souris sur un endroit cliquable le texte "prochaine destination" à côté de la flèche retour rouge (vous permettant
+                de revenir en arrière) se transformera en le nom de l'endroit que vous vous apprêtez à voir en cliquant. En grand vous aurez le nom de l'endroit et en petit en dessous sa description. Si vous rencontrez un problème sur le site veuillez
+                recharger la page, si cela ne marche toujours pas c'est probablement que nous sommes en train de le modifier. Merci et bon voyage.
+            </div>
             <button class="rounded px-2 border-red-500 bg-red-500" onclick="back()">
                 <span class="material-symbols-outlined">undo</span>
             </button>
