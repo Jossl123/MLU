@@ -88,3 +88,8 @@ window.onresize = () => {
     change_pos(pos)
     imageData = load_map(`./views/maps/${pos}.png`)
 }
+
+function myFunction() {
+    var popup = document.getElementById("help");
+    popup.classList.toggle("show");
+}

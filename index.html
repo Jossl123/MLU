@@ -20,11 +20,14 @@
     </div>
     <div class="flex-1 p-2">
         <div class="flex">
-            <button class="rounded border-4 border-red-500 bg-red-500" onclick="back()">
+            <button class="rounded-full px-2 border-gray-500 bg-gray-500 mr-2" onclick="back()">
+                <span class="material-symbols-outlined">question_mark</span>
+            </button>
+            <button class="rounded px-2 border-red-500 bg-red-500" onclick="back()">
                 <span class="material-symbols-outlined">undo</span>
             </button>
-            <p id="next_map"></p>
-            <p class="text-gray-400" id="next_map_ph">(La prochaine destination)</p>
+            <p id="next_map" class="p-2"></p>
+            <p class="text-gray-400 p-2" id="next_map_ph">(La prochaine destination)</p>
         </div>
         <h4 class="text-5xl" id="title"></h4>
         <hr class="" style="
