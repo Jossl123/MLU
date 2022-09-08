@@ -2,7 +2,7 @@ var maps = {
     "enilma": {
         "infos": {
             "title": "Enilma",
-            "description": "",
+            "description": "Enilma fait partie des trois villes préservées de la lune de sang sans le savoir. Celle-ci est légèrement surélevée sur une plateforme en béton, la majorité des bâtiments sont abandonnés sur les extrémités de la ville ou sont habitées par des personnes particulièrement pauvres, la police ne vient généralement pas dans les quartiers pauvres. En centre ville ont retrouve essentiellement des petit café ou des buildings administratif. Enilma est la cité où Marin est le plus influent, de plus c'est la cité où l'on retrouve le plus de Redroom. Elle base son économie sur le fait que son centre possède quelques magasins, à part cela elle est la cité la plus susceptible de sombrer dans le chaos car ayant les pires conditions de vie parmi les trois cité protéger. Sont dirigeants ne semble pas préoccupé par l'état de sa cité. Les personnes relativement pauvres détestent particulièrement la police qui travaille pour l'État car de leur point de vue elle n’a que faire de leur problème.",
             "frames": "1",
         },
         "path": {
