@@ -64,7 +64,7 @@ var maps = {
     "l_UH": {
         "infos": {
             "title": "L'UH",
-            "description": "L'Union de l'Humanitée",
+            "description": "L'union de l'humanité est le reste du gouvernement qui à survécu à la catastrophe. Elle dirige avec difficulté la cité de Stratos et à organiser le projet d'espoir pour l'espèce humaine en obligeant des enfants des rues à aller à l'école dans l'espoir de reconstruire la société en échange d'un foyer et d'argent. Ils répriment violemment les manifestants et sa police est peut contrôler donc les écarts arrivent souvent causant la mort de plusieurs personnes, innocent compris. Malgré que Marin y est vu comme un dieu l'UH est la seule société qui essaye toujours de s'en débarrasser. Elle sert finalement d'administration pour ces enfants des rues et font très attention à ce que rien ne leur arrive. Le dirigeant ne peut être contesté sur les lois qu'il donne, ainsi si il meurt après avoir donné une lois restrictive, l'administration est obligée de continuer de la faire obéir même s'il doit y avoir des morts. Ils envoient également des groupes militaires dans le désert au milieu des murs pour essayer de résoudre, au début il y avait un réel espoir mais finalement avec le temps et la réduction de cet espoir c'est juste devenu une habitude.",
             "frames": "1",
         },
         "path": {}
@@ -89,7 +89,7 @@ var maps = {
     "la_lune_de_sang": {
         "infos": {
             "title": "La lune de sang",
-            "description": "",
+            "description": "La lune de sang est un troue circulaire dans le ciel créé après l'explosion d'une technologie inconnue. De ce troue c'est mit à couler un liquide rouge foncé qui à une propriété étrange, il corrompt ce qui y est exposé un peut comme un liquide radioactif. Cependant cette corruption bouleverse les règles physique et chimique mélangeant les règles, par exemple un caillou peut avoir les propriétés d'un explosif, certains mur d'endroits abandonnés peut avoir la consistance de l'eau. Ce n'est pas tout ce liquide après quelques années à commencer à sortir par le sol à certains endroits sur terre rendant finalement inutile le mur de la ville de Stratos. Ce liquide corrompt aussi les être humain, petit à petit ils naissent avec des chose anormale, un membre en plus, une masse réduite, une moins bonne vue, la corruption semble s'être mêlé à l'ADN humain et quand elle ronge totalement une personne sur le point de mourir elle se transforme en chimère soit un être humain déformé et animé par une chose: la faim. Au plus un être humain s'approche de la lune de sang au plus sa santé baissera et il développera des maladie, c'est à quelque centimètre d'un lac de ce liquide juste en dessous de la lune de sang que gît le cadavre de celui qui à vécu 143 vie encore debout. Est il vraiment mort ? La corruption à également pollué les animaux les rendant dangereux en les modifiant et à corrompu le ciel qui à présent à une sorte de couche orange, maintenant les couleurs ne sont plus vraiment nettes dehors et sont toutes orangé ou rougeâtre.",
             "frames": "1",
         },
         "path": {}
@@ -188,7 +188,7 @@ var maps = {
     "stratos": {
         "infos": {
             "title": "Stratos",
-            "description": "Des batiments encore",
+            "description": "La cité de Stratos est la seul  à être au courant de l'existence de la lune de sang, elle essaye avec difficultés de rester debout malgré une forte pauvreté et de nombreux crimes. Il est commun que des gens à cause de la corruption deviennent des chimères surtout dans les rues pauvres. La ville est entourée avec un énorme mur un désert appelé "désert de la corruption" au milieu duquel on retrouve la lune de sang. À l'intérieur de cet endroit ont peut trouver des vestiges de l'ancienne civilisation avant la fin du monde et d'étranges technologies. Malgré tout, la cité arrive par miracle à tenir malgré des attaques de chimère et un semblant de gouvernement qui peine à se faire respecter. À l'intérieur il y à le siège de Marin, c'est d'ailleurs sa ville d'origine cependant il n'y passe plus tant de temp qu'avant, évidemment comme partout il est vu comme un dieux par ceux dans la nécessité et détesté par l'UH car représentant évidemment le chaos et la possible fin de la paix. La société à un niveau technologique réduit, les téléphones sont redevenus filaires rares sont ceux avec un téléphone portable, il y à peut de véhicule et les logements n'ont quasiment jamais d'électricité.",
             "frames": "1",
         },
         "path": {}
