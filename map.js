@@ -83,8 +83,30 @@ var maps = {
             "255.0.255": "monde_oublie",
             "0.255.255": "le_lit_du_monde",
             "255.255.255": "le_monde_des_cites",
-            "128.0.0": "inconnu"
+            "128.0.0": "inconnu",
+            "64.64.0": "la_dimension_des_coroses",
+            "128.64.0": "la_dimension_de_no_more_heros"
         }
+    },
+    "la_dimension_de_no_more_heros": {
+        "infos": {
+            "title": "La dimension de no more heros",
+            "description": "La dimension de no more heros",
+            "frames": "1",
+        },
+        "path": {
+            "255.0.0": "le_laboratoire_de_la_tour",
+            "0.255.0": "le_cimetiere",
+            "0.0.255": "la_tour"
+        }
+    },
+    "la_dimension_des_coroses": {
+        "infos": {
+            "title": "La dimension des coroses",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
     },
     "la_lune_de_sang": {
         "infos": {
@@ -97,6 +119,22 @@ var maps = {
     "la_scene": {
         "infos": {
             "title": "La scène",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "la_tour": {
+        "infos": {
+            "title": "La tour",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "le_cimetiere": {
+        "infos": {
+            "title": "Le cimetière",
             "description": "",
             "frames": "1",
         },
@@ -120,6 +158,14 @@ var maps = {
             "255.0.0": "l_hotel_lyric",
             "0.255.0": "l_entree_de_la_scene",
         }
+    },
+    "le_laboratoire_de_la_tour": {
+        "infos": {
+            "title": "Le laboratoire de la tour",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
     },
     "le_lit_du_monde": {
         "infos": {
