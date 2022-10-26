@@ -48,7 +48,7 @@ var maps = {
     "l_hotel_lyric": {
         "infos": {
             "title": "L'hotel lyric",
-            "description": "",
+            "description": "L'hôtel lyrics est comme son nom l'indique un hôtel, il est en partenariat avec La scène donc à comme son homologue un luxe et un goût particulièrement prononcé. Le bâtiment est quatre grandes tours carré relié par de long couloir de chambre avec un tapis de velour rouge avec au milieu de ce large carré un grand jardin luxuriant. Ont y trouve tout un tas de services, cuisine raffiné, bains, bibliothèque. Les personnes y travaillant essayent durement de garder leur travail pour ne pas finir à la rue. Le dirigeant de l'hôtel est dévoué à gardé celui ci en bon état et ses services d'une qualité irréprochable, le plus surprenant est que de nombreux riches y vivent en payant leur chambre régulièrement tant ils sont satisfaits de l'endroit. Il est commun qu'ils restent dans l'hôtel toute la journée et le soir vont à la scène profiter de leur privilèges. L'hôtel est également assez sécurisé avec un système de caméra, assez surprenant pour le niveau technologique de la ville, cela est due à des technologies importé depuis Neoki.",
             "frames": "1",
         },
         "path": {}
@@ -72,7 +72,7 @@ var maps = {
     "la_carte_des_dimensions_et_des_sous_mondes": {
         "infos": {
             "title": "La carte des dimensions et des sous mondes",
-            "description": "L'accès vers tous les mondes",
+            "description": "Voici un exemple d'une des pages de réalité existantes, toutes les pages de réalité sont les mêmes à certains détail près mais voici le schéma le plus commun de formation. Elle est composé d'un partie supérieure avec une pleine supposément infini d'herbe noir au dessus de laquel flottes des bulles dans lesquels se trouve des dimensions. La pleine est nommée 'le plateau' et à l'intérieur d'une bulle l'espace et le temp est différent d'une bulle à une autre ainsi certaines bulles sont assez avancée technologiquement et connaissent le voyage entre les dimensions et sont donc au courant de l'existence des autres, et d'autres non. Dans la partie inférieure donc sous le plateau il y à les 'sous étages', des endroits immense(également infini) avec leur propres fonctionnement dont la fonction et l'utilisation est floue. Il y à une roches incassable qui rend impossible de passer d'un étage à l'autre simplement en creusant un troue qui mène jusqu'au 'lit du monde' c'est à dire le dernier sol, la fin du bas de la page. Les sous étages ne changes jamais d'une réalité à l'autre et pour cause les sous étages sont les seuls choses qui sont commun à toutes les réalités et qui ne change jamais.",
             "frames": "1",
         },
         "path": {
@@ -91,7 +91,7 @@ var maps = {
     "la_dimension_de_no_more_heros": {
         "infos": {
             "title": "La dimension de no more heros",
-            "description": "La dimension de no more heros",
+            "description": "La dimension de No more heroes est une dimension qui ignore l'existence des autres dimensions. Celle ci est passé par de nombreuses période à travers sont histoire. Elle eu un développement normal jusqu'à l'arrivée de la mana suite à un troue creusé au mauvais endroit libérant dans l'air une matière inconnue qui c'est mêlée au gène humain développant des aptitudes chez certains. Cette dimension est passer donc dans un évènement majeur avec l'essort des héros mais aussi par un évènement dramatique de plusieurs années où un individu à détruit en grande partie la civilisation à lui seul renvoyant certain être humain a une société de violence et de force, après avoir été défait, avec difficulté les sociétés se sont relevé d'une période de crimes horribles et maintenant les héros sont d'autant plus présent qu'avant. Les restes du chaos laissé par cet homme est encore présent avec une énorme part de criminalité un peut partout. La politique, l'économie ou le domaine social est fortement guidé par le domaine des héros qui non seulement est devenu une sorte de police du monde mais aussi un organisme important, si il tombait le monde tomberait avec lui dans une nouvelle période de chaos. Il n'y à pas réellement de grand problème de pauvreté dans cette dimension car les emploies sont nombreux mais lentement des problème plus grand que quelques criminel se soulèves car l'ombre de l'être le plus cruel de ce monde plane encore après sa mort et ses miasme de sa psychoses infecte lentement le monde. Ici donc vous voyez les deux villes les plus importantes car tout les plus gros point d'intérêt de la dimension se trouvent sur le même continent. ",
             "frames": "1",
         },
         "path": {
@@ -120,7 +120,7 @@ var maps = {
     "la_maison_de_gunda_et_oto": {
         "infos": {
             "title": "La maison de gunda et oto",
-            "description": "",
+            "description": "La maison de Gunda est donc la maison où lui, son frère et Koto vivent, c'était avant un vieux gymnase qui fut abandonnée pour construire les villes plus loins. Maintenant après de long travaux c'est devenu une maison habitable, c'est aussi leur QG en tant que vilain. Après l'arrivée de Koto pas mal de chose ont du être changé tel que des monté plutôt que des marches, une douche plutôt qu'une baignoire. À l'arrière de la maison ont peut retrouver une sorte de décharge avec tout un tas de taule ou d'objets en métaux en train de rouillé. Il n'y à pas de réelle raison à la présence de ces choses mais ce n'est pas pour déplaire à Koto. La maison est sur élève sur une colline et est reculé d'absolument tout, que ce soit pour aller à la tour ou à la ville ont passe forcément par des bois épais.",
             "frames": "1",
         },
         "path": {}
@@ -128,7 +128,7 @@ var maps = {
     "la_scene": {
         "infos": {
             "title": "La scène",
-            "description": "",
+            "description": "La scène est le nom donné à un grand bâtiment de marbre blanc luxueux niché au milieu de la cité, c'est la structure la plus importante de la ville. À l'intérieur deux scènes d'opéra ou d'orchestre sont trouvable. La première scène est plus moderne avec des sièges plus récent et une architecture plus dynamique là où la deuxième est plus traditionnel et artisanale chaque chaise faites mains, la scène composé des parties les plus nobles des arbres les plus beau. C'est un endroit très superficiel et raffinée où se regroupent les personnalités riches pour partager un moment. De manière surprenante les deux personnes les plus souvent sur scène sont deux automates. Le lieux n'est jamais en difficulté en terme de nombre de public car les places s'arrachent entres les plus riches, même les racaille ou les personnes qui peuvent détesté la noblesse n'abîme pas le bâtiment tellement ce lieux est sacré et beau.",
             "frames": "1",
         },
         "path": {}
@@ -144,7 +144,7 @@ var maps = {
     "le_cimetiere": {
         "infos": {
             "title": "Le cimetière",
-            "description": "",
+            "description": "Le cimetière près de la tour à tout d'un cimetière basique à quelques détail près. Ont y retrouves deux tombes extrêmement importantes: la tombe de Xiu, la calamité affreuse détesté de tous pour avoir plonger le monde dans l'horreur et le chaos, régulièrement des gens vienne détruire sa tombe mais elle est toujours reconstruite par certain par respect pour l'histoire.Et la tombe de sa sœur qui c'est élevé contre son frère vu comme une héroïne, un exemple de courage et de bravoure, une des rares personnes qui au lieu de cédé au chaos c'est battue contre son frère et à aidé au rétablissement du monde, selon l'histoire communément raconté. Sa tombe est ainsi d'un marbre blanc pure entretenue et chéri tout le temp. Quelqu'un vien régulièrement à cet endroit pour faire coucou à une femme qu'il eut comme amie il y à longtemps, et à un homme qu'il à affronter pendant des années au cœur de la corruption et du chaos. Déposé des fleur pour ces deux être que tout oppose et qu'il à côtoyer il y à longtemps.",
             "frames": "1",
         },
         "path": {}
@@ -160,7 +160,7 @@ var maps = {
     "le_faux_stratos": {
         "infos": {
             "title": "Le faux Stratos",
-            "description": "",
+            "description": "Le faux Stratos est une des trois cité protégé de la vérité de la lune de sang, elle est à l'intérieur nommé juste 'Stratos' mais en vérité elle n'est qu'une pâle copie de la première cité de Stratos pour leurré l'histoire. Elle c'est démarqué avec le temps pour finalement n'avoir plus aucun rapport avec la première. La cité est assez moderne avec ses automates rouillé qui font partie de la population de la ville restaurant essentiellement leur énergie par le solaire ou de vieille batterie, elle reste tout de même moins moderne que Neoki car la technologie est limité par l'énergie. Ainsi la plus part des automates sont usé et disparaissent petit à petit de manière irrémédiable. La cité mélange donc être humain et automates, bus sur rail, montgolfière. Mais surtout est également sujet à de grande inégalités plus que n'importe où. Les plus riches vivent dans un luxe infini avec les viandes les plus rares dans des hôtel de luxe ou des maison immense, et les pauvres vivent dans des quartiers désaffectée. La cité en soit n'est ni touristiques ni commercial, elle est presque entièrement autonome et produit des objets de luxe pour quelques riches personnes, le marché de la drogue y est le moins influent par rapport à toutes les autres cité. La cité est sous l'influence d'une monarchie constitutionnelle avec un rois particulièrement jeune et encore ignorant guidé par le gouvernement de son père. À l'intérieur de la cité ont retrouve 'la Room' qui est une organisation de détective qui à pour but de faire ce que la police ne fait pas en répondant aux enquêtes enterré par le gouvernement. Les bourgeois en général détestent la Room car selon eux ils fourrent leur nez où il ne faut pas, parfois des battues sont organisées par les bourgeois, ils descendent dans les rues et capturent des gens dans les rues que personne ne regrettera et les tortures pour se divertir. Entre les battues certes rare mais existante et les dangers des rues pauvres la cité est à la fois assez agréable à parcourir pour ses architecture mais aussi dangereuse si ont vas au mauvais endroit. Il existe une légende dans la ville celle de 'el niño', un criminel qui serait partout es nul part qui tue quand ont dit son nom. Ce qui est vrai peut importe où vous êtes dans la ville, prononcé son nom même en chuchotant et vous mourrez d'une mort d'une rare violence, expliquant le manque de présence de Marin car la cité à déjà son propre 'monstre' selon lui. Son existence dissuade de manière surprenante les criminel de passer à l'action par peur qu'un jour ils le croisent, personne ne sais qui il est et la réalité est plus que surprenante. Le thème du temp est beaucoup présent avec son immense horloge, l'heure afficher à bien des endroits, les tic tac régulier que ont pourrais entendre partout dans la ville, ainsi il peut être stressant de se balader en ville si nous ne somme pas habitué à cela.",
             "frames": "1",
         },
         "path": {
@@ -219,7 +219,7 @@ var maps = {
     "neoki": {
         "infos": {
             "title": "Neoki",
-            "description": "",
+            "description": "La cité de Neoki est une des trois cité ignorants l'existence de la lune de sang. Elle est également la cité la plus développée technologiquement. La cité entière est sous une dictature depuis des années et des années, une dictature qui se relaye de génération en génération par la famille dirigeant la ville. La suprême leader de la ville n'est jamais remise en question et en général la population est assez heureuse de sa situation. La ville à accès à une ressource d'énergie unique est extrêmement rentable qu'elle ne partage avec aucune cité, en général même la cité de Neoki ne partage jamais rien car elle est très renfermé sur elle même, ses routes sont contrôlés, l'arrivé de touristes ou de migrants aussi, toutes les entreprises importantes sont dirigé par l'état et la police est très présente partout. Sauf aux extrémités, en effet la ville souffre comme beaucoup d'autre d'un taux de pauvreté élevé, ce qui amène des problématiques social et politique, là bas plus que nulle par ailleurs car avec ses casino, ses grandes publicité illuminé sur les bâtiments, ses technologie inconnu des autres cité, tout pousse à consommer et nombreux sont ceux qui ont tout perdue à cause de cette ville, à tous les tournant de rues des arnaqueurs, des publicités, un individu naïf s'y verra tout perdre et abusé jusqu'à ce qu'il n'est reste que de la poussière, tout s'y achète et tout s'y vend, c'est la cité de la décadence et du rêve, mais c'est également celle qui en à détruit de plus. La cité est donc en conflit avec cette problématique de voleur, d'arnaqueur, de tueur aux extrémités de la villes, de dealer et de plus la nouvelle leader fait face à d'autres problèmes interne au système politique. La cité de Neoki s'illumine toujours de mille feux la nuit à tel point qu'il n'y fait jamais nuit.",
             "frames": "1",
         },
         "path": {}
