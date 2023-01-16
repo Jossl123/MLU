@@ -172,7 +172,7 @@ var maps = {
     "le_laboratoire_de_la_tour": {
         "infos": {
             "title": "Le laboratoire de la tour",
-            "description": "",
+            "description": "Le laboratoire de la Tour est un bâtiment au milieu d'un champ de blé, à l'intérieur il y à une partie de la branche scientifique, c'est là bas que Luca travail le plus souvent. Les recherches concernent la mana, cette matière contenues autour du noyau de la terre qui une fois libéré de la roche qui l'empêchait de se répandre s'est répandu dans l'air de ce monde et c'est mélanger à l'ADN de l'être humain pour permettre au futur générations d'avoir des aptitudes. Ainsi depuis l'intérieur du bâtiment les restes de cette matière multicolore sont pompé pour les testés, dans ce petit bâtiment à peine surveiller par quelques caméra (le bâtiment est largement visible depuis la Tour mais pas depuis le sol) ont repousse les limites de la science et de la chimie. Quel autre expérience peut il bien y avoir dedans ? Quel genre de choses peuvent avoir été créé dans ces locaux en dehors du pompage de mana ? ",
             "frames": "1",
         },
         "path": {}
