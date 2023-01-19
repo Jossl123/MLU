@@ -12,13 +12,15 @@
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <title>MLU</title>
+    <script src="map.js"></script>
+    <script src="index.js"></script>
 </head>
 
 <body id="body" class="h-full flex bg-gray-900 text-gray-400" style="font-family: 'Silkscreen', cursive;" onmousemove="mouse_position(event)">
     <div class="flex-1 p-2">
         <img id="img" class="object-cover rounded" style="image-rendering: pixelated;width:-webkit-fill-available;" id="img" src="./views/pictures/MLU_1.png" alt="" srcset="">
     </div>
-    <div class="flex-1 p-2">
+    <div id="main" class="flex-1 p-2">
         <div class="flex">
             <button class="rounded-full px-2 border-gray-500 bg-gray-500 mr-2" onclick="help()">
                 <span class="material-symbols-outlined">question_mark</span>
@@ -32,6 +34,9 @@
             <button class="rounded px-2 border-red-500 bg-red-500" onclick="back()">
                 <span class="material-symbols-outlined">undo</span>
             </button>
+            <button class="rounded px-2" onclick="change_volume()">
+                <span id="volume" class="material-symbols-outlined">volume_up</span>
+            </button>
             <p id="next_map" class="p-2"></p>
             <p class="text-gray-400 p-2" id="next_map_ph">(La prochaine destination)</p>
         </div>
@@ -42,8 +47,15 @@
         border: none;">
         <div id="description"></div>
     </div>
-    <script src="map.js"></script>
-    <script src="index.js"></script>
+    <div id="musicPanel" class="absolute h-full w-full bg-black bg-opacity-80 flex items-center justify-center flex-col">
+        <p>Souhaitez-vous avoir une expèrience musicale ?</p>
+        <button class="bg-red-500 rounded border-4 border-red-500" onclick="music_panel(true)">Oui</button><button onclick="music_panel(false)">Non</button>
+    </div>
+    <style>
+        #musicPanel {
+            transition: all ease-in 1s;
+        }
+    </style>
 </body>
 
 </html>
