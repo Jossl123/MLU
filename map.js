@@ -69,6 +69,14 @@ var maps = {
         },
         "path": {}
     },
+    "la_capitale": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "la_carte_des_dimensions_et_des_sous_mondes": {
         "infos": {
             "title": "La carte des dimensions et des sous mondes",
@@ -133,10 +141,26 @@ var maps = {
         },
         "path": {}
     },
+    "la_tour_infiniement_grande": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "la_tour": {
         "infos": {
             "title": "La tour",
             "description": "La Tour est un immense bâtiment en verre renforcé qui est le QG de l’organisation des héros. Le chef de la Tour à un pouvoir politique particulièrement grand, quasiment autant qu'un président, à l'intérieur il y à plusieurs branches: cyber sécurité, héro sur le terrain, branche scientifique. De plus la structure à un système de défense avec des tourelles sortant autour en cas de problème. L'anneau autour est un groupe de bureau spécialisé sur des recherches plus secrète, pour y entrer ou sortir il faut avoir l'habilitation nécessaire qui fera sortir un pont de la colonne principale. Une fois à l'intérieur il y à en soit peut de système de défense car elle est quasiment constamment pleine de héro. La plus part des vilain ou criminel pensent que détruire la tour mènera au déchaînement des populations qui verront cette figure détruite. Cependant n'importe qui pourrait essayer de hacker les dossiers de la Tour et se rendre compte que ce symbole d'héroïsme pour ce monde nouveau en paix à les pied plongé dans des affaires terrible et inhumaine, en sont sein certaines personnes corrompu font pourrir l'organisation de l'intérieur lentement mais sûrement poussant l'organisation à essayer d'aller toujours plus loin pour enfin trouvé une stabilité solide. Le bureau du chef de la tour se trouve tout en haut mais dans le cas où la tour se verrait détruite le bureau sera fermé dans un large carré en métal blindé pour le protéger de chute ou d'intrusions.",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "la_ville_submergee": {
+        "infos": {
+            "title": "",
+            "description": "",
             "frames": "1",
         },
         "path": {}
@@ -197,6 +221,22 @@ var maps = {
             "255.0.255": "l_UH"
         }
     },
+    "le_monde_des_corose": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "les_montagnes_du_sud": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "MLU": {
         "infos": {
             "title": "Le Max littérature univers",
@@ -212,6 +252,14 @@ var maps = {
         "infos": {
             "title": "Le monde oublié",
             "description": "Le monde oublié est le dernier étage avant le lit du monde, ont y à accès par la porte situé dans le royaume des cauchemars et même les technologies de l’Over nine ne permettent pas d’y aller. On peut également y avoir accès par les portail que l’endroit créé par les ‘racines’ qui sont des plantes qui poussent lentement formant petit à petit un cercle, une fois fini cela crée un portail à un endroit absolument aléatoire sauf si construit par le fléau de cet étage. Ainsi régulièrement des portails s’ouvrent forçant les membres de l’Over nine à les trouver, y entrer, détruire à l'intérieur, fermant le portail et les forçant à trouver un chemin de sortie. Si il est si important de détruire ces portails c’est car l’endroit est dangereux. Il se présente comme un ville détruite sans réel sens avec un ciel rouge. Dans le ciel une anomalie est présente, un être sans couleur ni forme, mais coloré et formé, regardé le ciel vous rendra fou dans la seconde et vous ne pourrez plus cessé de regarder, si ont vous fait quitté la choses des yeux de forces vous mourrez directement, ainsi beaucoup regardent le ciel par manque de connaissance et sont laissé là à regarder le ciel. Ont y retrouve également des Chimère, des être humanoïde d’une violence extrême et pour finire Mysterio, une créature capable de créer des portail avec les racines, il à une forme humaines avec des membres mutilé et un visage abimé, de ses yeux coule du sable noir, sable qu”il peut crée en abondance et qu’il peut manier sans limite. 	Il est visiblement impossible a tuer et est très dangereux. L’endroit semble donc être des vestiges d’un monde corrompu, théorie est faite qu’il s’agirait d’un Morry alternatif, le Morry originel puisque quand ont y mets un téléporteur ont atterrit toujours dans une version de Morry dans une dimension. On suppose que l’Antéchrist s’y trouve expliquant l’état du monde abandonné.",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "morry": {
+        "infos": {
+            "title": "",
+            "description": "",
             "frames": "1",
         },
         "path": {}
@@ -240,10 +288,26 @@ var maps = {
         },
         "path": {}
     },
+    "star_city": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "stratos": {
         "infos": {
             "title": "Stratos",
             "description": "La cité de Stratos est la seul  à être au courant de l'existence de la lune de sang, elle essaye avec difficultés de rester debout malgré une forte pauvreté et de nombreux crimes. Il est commun que des gens à cause de la corruption deviennent des chimères surtout dans les rues pauvres. La ville est entourée avec un énorme mur un désert appelé 'désert de la corruption' au milieu duquel on retrouve la lune de sang. À l'intérieur de cet endroit ont peut trouver des vestiges de l'ancienne civilisation avant la fin du monde et d'étranges technologies. Malgré tout, la cité arrive par miracle à tenir malgré des attaques de chimère et un semblant de gouvernement qui peine à se faire respecter. À l'intérieur il y à le siège de Marin, c'est d'ailleurs sa ville d'origine cependant il n'y passe plus tant de temp qu'avant, évidemment comme partout il est vu comme un dieux par ceux dans la nécessité et détesté par l'UH car représentant évidemment le chaos et la possible fin de la paix. La société à un niveau technologique réduit, les téléphones sont redevenus filaires rares sont ceux avec un téléphone portable, il y à peut de véhicule et les logements n'ont quasiment jamais d'électricité.",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "uhoh": {
+        "infos": {
+            "title": "",
+            "description": "",
             "frames": "1",
         },
         "path": {}
