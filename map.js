@@ -53,6 +53,14 @@ var maps = {
         },
         "path": {}
     },
+    "l_ile_volcanique": {
+        "infos": {
+            "title": "L'île volcanique",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "l_over_nine": {
         "infos": {
             "title": "L'Over Nine",
@@ -117,7 +125,13 @@ var maps = {
             "description": "",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "la_tour_infiniement_grande",
+            "0.255.0": "la_capitale",
+            "0.0.255": "la_ville_submergee",
+            "255.255.0": "l_ile_volcanique",
+            "0.255.255": "les_montagnes_du_sud"
+        }
     },
     "la_lune_de_sang": {
         "infos": {
