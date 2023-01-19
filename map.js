@@ -53,6 +53,14 @@ var maps = {
         },
         "path": {}
     },
+    "l_hotel_neverend": {
+        "infos": {
+            "title": "L'hôtel NeverEnd",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "l_ile_volcanique": {
         "infos": {
             "title": "L'île volcanique",
@@ -101,7 +109,8 @@ var maps = {
             "255.255.255": "le_monde_des_cites",
             "128.0.0": "inconnu",
             "64.64.0": "la_dimension_des_coroses",
-            "128.64.0": "la_dimension_de_no_more_heros"
+            "128.64.0": "la_dimension_de_no_more_heros",
+            "0.0.128": "morry",
         }
     },
     "la_dimension_de_no_more_heros": {
@@ -115,7 +124,7 @@ var maps = {
             "0.255.0": "le_cimetiere",
             "0.0.255": "la_tour",
             "255.255.0": "la_maison_de_gunda_et_oto",
-            "255.0.255": "uhoh",
+            "255.0.255": "uh_oh",
             "0.255.255": "star_city"
         }
     },
@@ -270,7 +279,9 @@ var maps = {
             "description": "",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "l_hotel_neverend"
+        }
     },
     "neoki": {
         "infos": {
@@ -312,9 +323,9 @@ var maps = {
         },
         "path": {}
     },
-    "uhoh": {
+    "uh_oh": {
         "infos": {
-            "title": "UhOh",
+            "title": "Uh oh",
             "description": "",
             "frames": "1",
         },
