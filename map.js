@@ -71,7 +71,7 @@ var maps = {
     },
     "la_capitale": {
         "infos": {
-            "title": "",
+            "title": "La capitale",
             "description": "",
             "frames": "1",
         },
@@ -106,7 +106,9 @@ var maps = {
             "255.0.0": "le_laboratoire_de_la_tour",
             "0.255.0": "le_cimetiere",
             "0.0.255": "la_tour",
-            "255.255.0": "la_maison_de_gunda_et_oto"
+            "255.255.0": "la_maison_de_gunda_et_oto",
+            "255.0.255": "uhoh",
+            "0.255.255": "star_city"
         }
     },
     "la_dimension_des_coroses": {
@@ -143,7 +145,7 @@ var maps = {
     },
     "la_tour_infiniement_grande": {
         "infos": {
-            "title": "",
+            "title": "La tour infiniement grande",
             "description": "",
             "frames": "1",
         },
@@ -159,7 +161,7 @@ var maps = {
     },
     "la_ville_submergee": {
         "infos": {
-            "title": "",
+            "title": "La ville submergée",
             "description": "",
             "frames": "1",
         },
@@ -221,17 +223,9 @@ var maps = {
             "255.0.255": "l_UH"
         }
     },
-    "le_monde_des_corose": {
-        "infos": {
-            "title": "",
-            "description": "",
-            "frames": "1",
-        },
-        "path": {}
-    },
     "les_montagnes_du_sud": {
         "infos": {
-            "title": "",
+            "title": "Les montagnes du sud",
             "description": "",
             "frames": "1",
         },
@@ -258,7 +252,7 @@ var maps = {
     },
     "morry": {
         "infos": {
-            "title": "",
+            "title": "Morry",
             "description": "",
             "frames": "1",
         },
@@ -290,7 +284,7 @@ var maps = {
     },
     "star_city": {
         "infos": {
-            "title": "",
+            "title": "Star city",
             "description": "",
             "frames": "1",
         },
@@ -306,7 +300,7 @@ var maps = {
     },
     "uhoh": {
         "infos": {
-            "title": "",
+            "title": "UhOh",
             "description": "",
             "frames": "1",
         },

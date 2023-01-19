@@ -5,7 +5,8 @@ var path = [pos]
 var mouse = { x: 0, y: 0, color: '0.0.O' }
 var frame = 0
 var mapCanvas, mapImage, ratio, imageData
-var audio = new Audio("music/" + defaultPos + ".mp3");
+var audio = new Audio("./music/" + defaultPos + ".mp3");
+audio.loop = true;
 var musicOn = false
 
 window.onload = () => {
@@ -96,8 +97,9 @@ async function music_panel(on) {
 async function load_music() {
     audio.play()
     if (musicOn) {
-        if (doesFileExist("music/" + pos + ".mp3") && musicFile != pos) {
-            naudio = new Audio("music/" + pos + ".mp3")
+        if (doesFileExist("./music/" + pos + ".mp3") && musicFile != pos) {
+            naudio = new Audio("./music/" + pos + ".mp3")
+            naudio.loop = true;
             for (let i = 0; i < 1; i += 0.1) {
                 await sleep(50)
                 audio.volume = 1 - i
