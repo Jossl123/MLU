@@ -34,10 +34,10 @@ async function back() {
     if (path.length <= 1) return
     path.pop()
     var name = path[path.length - 1]
-    await change_pos(name, "prout")
+    await change_pos(name)
 }
 
-async function change_pos(npos, t = "kak") {
+async function change_pos(npos) {
     pos = npos
     if (maps[pos].infos.frames > 1) document.getElementById("img").setAttribute("src", `./views/pictures/${pos}_1.png`)
     else document.getElementById("img").setAttribute("src", `./views/pictures/${pos}.png`)
@@ -50,11 +50,10 @@ async function change_pos(npos, t = "kak") {
 }
 
 function mouse_click(e) {
-    console.log(e.target.id, e.target)
     if (mouse.color in (maps[pos]).path && e.target.id != "undo") {
         var name = maps[pos].path[mouse.color]
         path.push(name)
-        change_pos(name, "test")
+        change_pos(name)
     }
 }
 
