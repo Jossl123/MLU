@@ -18,7 +18,7 @@
 
 <body id="body" class="h-full flex bg-gray-900 text-gray-400" style="font-family: 'Silkscreen', cursive;" onmousemove="mouse_position(event)">
     <div class="flex-1 p-2">
-        <img id="img" class="object-cover rounded" style="image-rendering: pixelated;width:-webkit-fill-available;" id="img" src="./views/pictures/MLU_1.png" alt="" srcset="">
+        <img id="img" onmouseover="hoverImg = true;" onmouseout="hoverImg = false;" class="object-cover rounded" style="image-rendering: pixelated;width:-webkit-fill-available;" id="img" src="./views/pictures/MLU_1.png" alt="" srcset="">
     </div>
     <div id="main" class="flex-1 p-2">
         <div class="flex">
@@ -31,8 +31,8 @@
                 de revenir en arrière) se transformera en le nom de l'endroit que vous vous apprêtez à voir en cliquant. En grand vous aurez le nom de l'endroit et en petit en dessous sa description. Si vous rencontrez un problème sur le site veuillez
                 recharger la page, si cela ne marche toujours pas c'est probablement que nous sommes en train de le modifier. Merci et bon voyage.
             </div>
-            <button class="rounded px-2 border-red-500 bg-red-500" onclick="back()">
-                <span class="material-symbols-outlined">undo</span>
+            <button id="undo" class="rounded px-2 border-red-500 bg-red-500" onclick="back()">
+                <span id="undo" class="material-symbols-outlined">undo</span>
             </button>
             <button class="rounded px-2" onclick="change_volume()">
                 <span id="volume" class="material-symbols-outlined">volume_up</span>

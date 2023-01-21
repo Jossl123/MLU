@@ -8,37 +8,36 @@ var mapCanvas, mapImage, ratio, imageData
 var audio = new Audio("./music/" + defaultPos + ".mp3");
 audio.loop = true;
 var musicOn = false
+var hoverImg = false
 
-window.onload = () => {
+window.onload = async() => {
+    imageData = load_map(`./views/maps/${pos}.png`)
+    document.addEventListener("click", mouse_click);
+    await change_pos(pos)
 
+    const interval = setInterval(function() {
+        change_frame()
+    }, 700);
+
+    window.onresize = async() => {
+        await change_pos(pos)
         imageData = load_map(`./views/maps/${pos}.png`)
-        document.addEventListener("click", mouse_click);
-        change_pos(pos)
-
-        const interval = setInterval(function() {
-            change_frame()
-        }, 700);
-
-        window.onresize = () => {
-            change_pos(pos)
-            imageData = load_map(`./views/maps/${pos}.png`)
-        }
-
-        document.addEventListener("mouseup", function(e) {
-            var popup = document.getElementById("help");
-            if (e.target.id != "help") popup.classList.add("hidden");
-        });
-
     }
-    //import maps from './data.json';
-function back() {
+
+    document.addEventListener("mouseup", function(e) {
+        var popup = document.getElementById("help");
+        if (e.target.id != "help") popup.classList.add("hidden");
+    });
+}
+
+async function back() {
     if (path.length <= 1) return
     path.pop()
     var name = path[path.length - 1]
-    change_pos(name)
+    await change_pos(name, "prout")
 }
 
-function change_pos(npos) {
+async function change_pos(npos, t = "kak") {
     pos = npos
     if (maps[pos].infos.frames > 1) document.getElementById("img").setAttribute("src", `./views/pictures/${pos}_1.png`)
     else document.getElementById("img").setAttribute("src", `./views/pictures/${pos}.png`)
@@ -51,10 +50,11 @@ function change_pos(npos) {
 }
 
 function mouse_click(e) {
-    if (mouse.color in (maps[pos]).path) {
+    console.log(e.target.id, e.target)
+    if (mouse.color in (maps[pos]).path && e.target.id != "undo") {
         var name = maps[pos].path[mouse.color]
         path.push(name)
-        change_pos(name)
+        change_pos(name, "test")
     }
 }
 
