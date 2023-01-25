@@ -1,4 +1,28 @@
 var maps = {
+    "adam": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "celui_qui_a_vecu_143_vies": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "cile": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "enilma": {
         "infos": {
             "title": "Enilma",
@@ -10,6 +34,30 @@ var maps = {
             "0.255.0": "le_faux_stratos",
             "0.0.255": "red_room"
         }
+    },
+    "espace": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "gunda": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "hanita": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
     },
     "inconnu": {
         "infos": {
@@ -41,6 +89,14 @@ var maps = {
         "infos": {
             "title": "L'espace blanc",
             "description": "L'espace blanc est un endroit supposément infini situé entre toutes les pages de réalité. Ce sont l'élu et Pize qui y restent au quotidien, il s'agit d'un endroit où on peut obtenir à peu près faire apparaître n'importe quoi du moment qu'on est dedans, tout ce qui y est créé disparaît quand ont les en sort. Personne n'est capable d'entrer dans cet endroit calme et vide sauf si invité par l'élu. Le principe de temp est troublé dedans car géré par l'élu, tantôt quand ont est dedans quelques secondes, sept ans ont passé dehors, tantôt ont peut y rester cinq ans et dehors le temps n'a pas avancer. Le peu de personnes s'y étant trouver, l'élu y compris disent de cet endroit qu'il est silencieux, reposant et que quand ont y est l'impression d'être déconnecté de l'univers règne. Loin du script et des responsabilités.",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "l_horloge_sur_la_montagne": {
+        "infos": {
+            "title": "L'horloge sur la montagne",
+            "description": "",
             "frames": "1",
         },
         "path": {}
@@ -85,6 +141,17 @@ var maps = {
         },
         "path": {}
     },
+    "l_uniterre": {
+        "infos": {
+            "title": "L'Uniterre",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {
+            "255.0.0": "le_trio_x",
+            "0.255.0": "l_horloge_sur_la_montagne",
+        }
+    },
     "la_capitale": {
         "infos": {
             "title": "La capitale",
@@ -111,6 +178,7 @@ var maps = {
             "64.64.0": "la_dimension_des_coroses",
             "128.64.0": "la_dimension_de_no_more_heros",
             "0.0.128": "morry",
+            "255.0.100": "l_uniterre",
         }
     },
     "la_dimension_de_no_more_heros": {
@@ -154,6 +222,14 @@ var maps = {
         "infos": {
             "title": "La maison de gunda et oto",
             "description": "La maison de Gunda est donc la maison où lui, son frère et Koto vivent, c'était avant un vieux gymnase qui fut abandonnée pour construire les villes plus loins. Maintenant après de long travaux c'est devenu une maison habitable, c'est aussi leur QG en tant que vilain. Après l'arrivée de Koto pas mal de chose ont du être changé tel que des monté plutôt que des marches, une douche plutôt qu'une baignoire. À l'arrière de la maison ont peut retrouver une sorte de décharge avec tout un tas de taule ou d'objets en métaux en train de rouillé. Il n'y à pas de réelle raison à la présence de ces choses mais ce n'est pas pour déplaire à Koto. La maison est sur élève sur une colline et est reculé d'absolument tout, que ce soit pour aller à la tour ou à la ville ont passe forcément par des bois épais.",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "la_salle_d_entrainement": {
+        "infos": {
+            "title": "La salle d'entrainement",
+            "description": "",
             "frames": "1",
         },
         "path": {}
@@ -225,6 +301,14 @@ var maps = {
         },
         "path": {}
     },
+    "le_laboratoire_secret": {
+        "infos": {
+            "title": "Le laboratoire secret",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "le_lit_du_monde": {
         "infos": {
             "title": "Le lit du monde",
@@ -243,8 +327,43 @@ var maps = {
             "255.0.0": "stratos",
             "0.255.0": "enilma",
             "0.0.255": "la_lune_de_sang",
-            "255.0.255": "l_UH"
+            "255.0.255": "l_UH",
+            "0.255.255": "le_projet_meteor"
         }
+    },
+    "le_poisson": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "le_projet_metero": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "le_trio_x": {
+        "infos": {
+            "title": "L'entrée de la scène ",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {
+            "255.0.0": "ou_voulez_vous_aller",
+        }
+    },
+    "leo": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
     },
     "les_montagnes_du_sud": {
         "infos": {
@@ -273,6 +392,14 @@ var maps = {
         },
         "path": {}
     },
+    "monsieur_event": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "morry": {
         "infos": {
             "title": "Morry",
@@ -287,6 +414,65 @@ var maps = {
         "infos": {
             "title": "Neoki",
             "description": "La cité de Neoki est une des trois cité ignorants l'existence de la lune de sang. Elle est également la cité la plus développée technologiquement. La cité entière est sous une dictature depuis des années et des années, une dictature qui se relaye de génération en génération par la famille dirigeant la ville. La suprême leader de la ville n'est jamais remise en question et en général la population est assez heureuse de sa situation. La ville à accès à une ressource d'énergie unique est extrêmement rentable qu'elle ne partage avec aucune cité, en général même la cité de Neoki ne partage jamais rien car elle est très renfermé sur elle même, ses routes sont contrôlés, l'arrivé de touristes ou de migrants aussi, toutes les entreprises importantes sont dirigé par l'état et la police est très présente partout. Sauf aux extrémités, en effet la ville souffre comme beaucoup d'autre d'un taux de pauvreté élevé, ce qui amène des problématiques social et politique, là bas plus que nulle par ailleurs car avec ses casino, ses grandes publicité illuminé sur les bâtiments, ses technologie inconnu des autres cité, tout pousse à consommer et nombreux sont ceux qui ont tout perdue à cause de cette ville, à tous les tournant de rues des arnaqueurs, des publicités, un individu naïf s'y verra tout perdre et abusé jusqu'à ce qu'il n'est reste que de la poussière, tout s'y achète et tout s'y vend, c'est la cité de la décadence et du rêve, mais c'est également celle qui en à détruit de plus. La cité est donc en conflit avec cette problématique de voleur, d'arnaqueur, de tueur aux extrémités de la villes, de dealer et de plus la nouvelle leader fait face à d'autres problèmes interne au système politique. La cité de Neoki s'illumine toujours de mille feux la nuit à tel point qu'il n'y fait jamais nuit.",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "neviss": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "ori": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "oto": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "ou_voulez_vous_aller": {
+        "infos": {
+            "title": "Où voulez-vous aller ?",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {
+            "255.0.0": "la_salle_d_entrainement",
+            "0.255.0": "le_laboratoire_secret"
+        }
+    },
+    "over": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "qizil": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "reck": {
+        "infos": {
+            "title": "???",
+            "description": "???",
             "frames": "1",
         },
         "path": {}
@@ -323,10 +509,50 @@ var maps = {
         },
         "path": {}
     },
+    "teros": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "uh_oh": {
         "infos": {
             "title": "Uh oh",
             "description": "Uh oh, on dirait que tu as croisé la mauvaise personne. La tour couvrira ta mort et viendra probablement récupérer leur sujet de test pendant qu'il se repaît de ta peau. À moins que tu sois capable de courir aussi vite qu'un champion sportif ?",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "uz": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "weather": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "xiu": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "zoe": {
+        "infos": {
+            "title": "???",
+            "description": "???",
             "frames": "1",
         },
         "path": {}
