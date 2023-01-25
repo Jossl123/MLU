@@ -123,7 +123,9 @@ var maps = {
             "description": "",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "monsieur_event",
+        }
     },
     "l_over_nine": {
         "infos": {
@@ -131,7 +133,12 @@ var maps = {
             "description": "L'Over nine est un groupe armé secret posé sur le plateau du monde en dehors des dimensions, il possède un armement et des technologies avancées et est dirigé par le majors lui même guidé par les conseille de quatre inconnus. L’endroit est non seulement une base mais aussi une prison pour les menace les plus grandes du multivers ou pour ceux connaissant l'existence de l’Over nine et qui refusent d’être employé. Dans le passé, l'endroit était un laboratoire qui faisait des expérimentations sur des individus kidnappés expliquant les couloirs innombrables dans ses sous sol à présent fermé. L’endroit s’occupe également d'observer la fissure sur le Lit du monde qui s'agrandit à chaque être vivant faisant une crise oeillique qui est une sorte de transe désignant l’individu comme important et choisie de l'œil. La plus grosse fissure arriva à la naissance de Ori. L’Over nine de part son ancienneté est devenu une légende pour enfant à travers le multivers étant dans un endroit que personne ne peut atteindre à part les agents. Pour enrôlé des agents, l’Over nine retrouve les gens ayant fait une crise oeillique ou en prend au hasard, s'ils refusent ils sont tué ou enfermé, s'ils acceptent le groupe organise une fausse mort et de fausse funéraire pour leurrer les proches, ainsi il leur est interdit de revoir leur proches. L’Over nine est également à l’origine de la création de Over, une expérience de l’Over nine créant un combattant d’une puissance extrême qu’ils ont perdu peu de temps après. L’Over nine est le seul organisme existant capable non seulement d'aller dans les sous sol du multivers mais aussi de voyager entre les dimensions autrement qu’en attendant que les bulles se traversent en utilisant l'appareil de voyage dimensionnel.",
             "frames": "3",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "leo",
+            "0.255.0": "cile",
+            "0.0.255": "ori",
+            "255.0.255": "over"
+        }
     },
     "l_UH": {
         "infos": {
@@ -158,7 +165,9 @@ var maps = {
             "description": "La capitale est une large ville boueuse qui est le centre économique de tout le continent, là-bas il faut faire attention à son verre d'eau, et ne pas s'approcher des rues sombres, si vous êtes un trouble-fête, vous le regretterez si vous ne cherchez pas les problèmes, vous irez bien, c'est également là-bas que l'on trouve les rares artistes de ce monde. De fiers et dignes hommes qui modifient la nature pour créer leurs formes issues de leur pensé. Sont plus grand bâtiment est sont cloché massif qui est de manière surprenante plus discrets que des clochers plus petits ailleurs dans le multivers. La capitale est un point essentiel du commerce car c'est par son port que passent les ressources issues des montagnes du sud, de l'extrémité nord, du gouffre, ou de la ville submergé. En général il y fait assez mauvais temps et les gens y sont moroses mais ils savent faire la fête quand il le faut, en général à travers la capitale bien qu'elle soit fortement lié avec la couronne, les soldats y sont détesté pour des histoires de conquête génocidaires du passé qui ne sont pas bien passé aux yeux de la population du continent. Le roi est au courant de cela mais ne peut rien y faire car sa discrétion à entraîner une augmentation de la part de pouvoir de la population sur le monde, si il agit contre la capitale il risque sa vie et la stabilité du monde car la capitale à ses secrets également en termes d'armement interne mais aussi en termes de soldats. Il n'y a pas de maire mais de ceux qui gardent les points sociaux tels que les dirigeants d'hôtel, ou de tavernes sont écoutés comme des dirigeants. Ainsi la capitale à une armée sous la forme du haut nombre d'assassins et d'ancien combattant qui ont quitté la couronne prêt à se battre pour leur ville, les citoyens qui pensent de la même manière, mais la capitale à aussi de l'armement avec la période du troc où on échangeait des ressources contre des armes, les forgerons nombreux et certains commerçants illégaux.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "weather",
+        }
     },
     "la_carte_des_dimensions_et_des_sous_mondes": {
         "infos": {
@@ -248,7 +257,9 @@ var maps = {
             "description": "La tour infiniment grande est comme vous le voyez, une tour. Cependant, celle-ci est infiniment grande, d'une taille que les moyens d'époque ne rendent pas capable de mesurer, celle-ci transperce les nuages, toute personne qui essaye de la monté à partir d'une certaine hauteur ne revient pas. C'est une grande colonne supposément de marbre, avec des marches vers l'extérieur qui l'entourent avec quelques ornements ici et là. Sa montée est compliquée tant car les marches sont très loin d'être sécurisées, mais aussi car des créatures attaqueraient au-delà des nuages, des créatures dont nous n'avons que des croquis et des histoires incomplètes. Jusqu'où va vraiment cette structure ? Aucune idée mais il est légitime de penser que le cavalier de l'espace est le créateur de cette structure qui aurait été créé pour atteindre dieu, cet endroit à toutes à voir avec lui, la géométrie et l'espace, les longueurs, les largeurs, tout est sur le thème de ce cavalier. Mais cependant, on peut remarquer que c'est Weather qui adore l'architecture, peut être est ce un cadeau d'Espace à son amie ? Qui sait ?",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "espace"
+        }
     },
     "la_tour": {
         "infos": {
@@ -264,7 +275,9 @@ var maps = {
             "description": "La ville submergée est une ville qui au début des civilisations était sur une île qui lentement a été dévorée par l'océan qui montait, ainsi pendant longtemps une partie de l'année l'eau était en bord de plage, puis l'autre partie elle inondait les rues, avec le temps elle continua de monter et à présent l'eau est à hauteur de taille, et l'autre partie de l'année la population vient dans les toits des bâtiments. Pendant longtemps l'endroit était victime de tempêtes violentes qui ravageaient la ville qui entraîna beaucoup de morts, une dépopulation de la ville, puis une repopulation plus tard. De grandes vagues plus grandes que les bâtiments, une eau glacial et un ciel noir. Aujourd'hui ces tempêtes ont cessé pour des raisons que la population ignore, l'eau est maintenant soit à hauteur de genoux, soit légèrement en dessous des toits, il n'y a aucun courant, ni de remous, l'eau est légèrement chaude et est baigné d'un soleil doux et agréable. La ville vie de la pêche, et de la récolte de coraux ou de minéraux sous-marins. Maintenant que les tempêtes ont cessé la population est revenu et de jeunes personnes peuples les rues avec une vue optimiste du futur de leur ville, comme une grande piscine cette ville est presque paradisiaque où la population a pris l'habitude de vivre avec l'océan comme une mère dont l'on prend soin, cependant cette ville encore aujourd'hui est entourée par des mer profondes et encore inconnu.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "neviss"
+        }
     },
     "le_cimetiere": {
         "infos": {
@@ -328,7 +341,7 @@ var maps = {
             "0.255.0": "enilma",
             "0.0.255": "la_lune_de_sang",
             "255.0.255": "l_UH",
-            "0.255.255": "le_projet_meteor"
+            "0.255.255": "le_projet_metero"
         }
     },
     "le_poisson": {
@@ -371,7 +384,9 @@ var maps = {
             "description": "",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "adam"
+        }
     },
     "MLU": {
         "infos": {
@@ -390,7 +405,9 @@ var maps = {
             "description": "Le monde oublié est le dernier étage avant le lit du monde, ont y à accès par la porte situé dans le royaume des cauchemars et même les technologies de l’Over nine ne permettent pas d’y aller. On peut également y avoir accès par les portail que l’endroit créé par les ‘racines’ qui sont des plantes qui poussent lentement formant petit à petit un cercle, une fois fini cela crée un portail à un endroit absolument aléatoire sauf si construit par le fléau de cet étage. Ainsi régulièrement des portails s’ouvrent forçant les membres de l’Over nine à les trouver, y entrer, détruire à l'intérieur, fermant le portail et les forçant à trouver un chemin de sortie. Si il est si important de détruire ces portails c’est car l’endroit est dangereux. Il se présente comme un ville détruite sans réel sens avec un ciel rouge. Dans le ciel une anomalie est présente, un être sans couleur ni forme, mais coloré et formé, regardé le ciel vous rendra fou dans la seconde et vous ne pourrez plus cessé de regarder, si ont vous fait quitté la choses des yeux de forces vous mourrez directement, ainsi beaucoup regardent le ciel par manque de connaissance et sont laissé là à regarder le ciel. Ont y retrouve également des Chimère, des être humanoïde d’une violence extrême et pour finire Mysterio, une créature capable de créer des portail avec les racines, il à une forme humaines avec des membres mutilé et un visage abimé, de ses yeux coule du sable noir, sable qu”il peut crée en abondance et qu’il peut manier sans limite. 	Il est visiblement impossible a tuer et est très dangereux. L’endroit semble donc être des vestiges d’un monde corrompu, théorie est faite qu’il s’agirait d’un Morry alternatif, le Morry originel puisque quand ont y mets un téléporteur ont atterrit toujours dans une version de Morry dans une dimension. On suppose que l’Antéchrist s’y trouve expliquant l’état du monde abandonné.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "mysterio"
+        }
     },
     "monsieur_event": {
         "infos": {
@@ -410,13 +427,23 @@ var maps = {
             "255.0.0": "l_hotel_neverend"
         }
     },
+    "mysterio": {
+        "infos": {
+            "title": "???",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "neoki": {
         "infos": {
             "title": "Neoki",
             "description": "La cité de Neoki est une des trois cité ignorants l'existence de la lune de sang. Elle est également la cité la plus développée technologiquement. La cité entière est sous une dictature depuis des années et des années, une dictature qui se relaye de génération en génération par la famille dirigeant la ville. La suprême leader de la ville n'est jamais remise en question et en général la population est assez heureuse de sa situation. La ville à accès à une ressource d'énergie unique est extrêmement rentable qu'elle ne partage avec aucune cité, en général même la cité de Neoki ne partage jamais rien car elle est très renfermé sur elle même, ses routes sont contrôlés, l'arrivé de touristes ou de migrants aussi, toutes les entreprises importantes sont dirigé par l'état et la police est très présente partout. Sauf aux extrémités, en effet la ville souffre comme beaucoup d'autre d'un taux de pauvreté élevé, ce qui amène des problématiques social et politique, là bas plus que nulle par ailleurs car avec ses casino, ses grandes publicité illuminé sur les bâtiments, ses technologie inconnu des autres cité, tout pousse à consommer et nombreux sont ceux qui ont tout perdue à cause de cette ville, à tous les tournant de rues des arnaqueurs, des publicités, un individu naïf s'y verra tout perdre et abusé jusqu'à ce qu'il n'est reste que de la poussière, tout s'y achète et tout s'y vend, c'est la cité de la décadence et du rêve, mais c'est également celle qui en à détruit de plus. La cité est donc en conflit avec cette problématique de voleur, d'arnaqueur, de tueur aux extrémités de la villes, de dealer et de plus la nouvelle leader fait face à d'autres problèmes interne au système politique. La cité de Neoki s'illumine toujours de mille feux la nuit à tel point qu'il n'y fait jamais nuit.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "hanita"
+        }
     },
     "neviss": {
         "infos": {
