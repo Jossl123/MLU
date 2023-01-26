@@ -170,3 +170,14 @@ function help() {
         popup.classList.add("hidden");
     }
 }
+
+function sort(object) {
+    var sortedKeys = Object.keys(object).sort().reduce((objEntries, key) => {
+
+        objEntries[key] = object[key];
+
+        return objEntries;
+
+    }, {});
+    return sortedKeys
+}
