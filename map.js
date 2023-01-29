@@ -26,7 +26,7 @@ var maps = {
     "docteur_reverso": {
         "infos": {
             "title": "docteur_reverso",
-            "description": "",
+            "description": "Le docteur Reverso est un homme de génie considéré comme le numéro un en termes d'intelligence, il à créer le voyage entre les bulles d'univers, il est en réalité bien plus vieux qu'il ne semble. Le docteur est un robot maintenant qu'il c'est fait plusieurs modifications. Il à également une fille qu'il à créé de toute pièce, cependant elle à la peau légèrement rose car il s'est endormie en la créant. En général il est assez passif d'un tempérament bienveillant et optimiste à l'idée d'améliorer la situation de l'humanité. Cet élan se stoppera quand il découvrira qui est réellement le plus intelligent du multivers et qu'il se fera tuer par celui-ci. En mourant il révèlera à Max la réalité sur Mike et demandera à Max de faire en sorte que sa fille vive correctement, promesse que Max tiendra. Le docteur Reverso pour sa survie est capable d'utiliser son corp robotique qui s'étendra pour le rendre six à dix fois plus grand, il à créé le Vitruse pour mettre un terme aux agissements de Mike, tentative qui échouera, en combat singulier il à appris énormément d'art martiaux, et sont corp ne peut pas fatigué mais il à aussi appris toutes les défenses contre les magies ou capacité rudimentaire en plus d'utiliser des technologies extrêmement dangereuse. Il est donc un adversaire redoutable.",
             "frames": "1",
         },
         "path": {}
@@ -106,7 +106,7 @@ var maps = {
     "l_horloge_sur_la_montagne": {
         "infos": {
             "title": "L'horloge sur la montagne",
-            "description": "",
+            "description": "L'horloge sur la montagne est une horloge immense posée à l'horizontale en équilibre le pic de la montagne à son centre. On dit que c'est ici que le temps fut créé. Un certain peuple ressemblant à des montres ou des horloges sont apparemment capables s' ils montent à cette montagne avec les morceaux de rouages de l'horloge de la capitale, seraient capables de manier le temps par affiliation avec cette notion. En vérité c'est un lieu où ce peuple prie et remercie l'œil de leur avoir donné naissance en haut de cette montagne. Un être de cette race avec le matériel nécessaire pourra accélérer ou ralentir partiellement le temps dans la bulle de l'Uniterre tant qu'il reste sur la surface de l'horloge. C'est pourquoi l'horloge de la capitale est protégé par un champ magique et des technologies de défense.",
             "frames": "1",
         },
         "path": {
@@ -142,7 +142,7 @@ var maps = {
     "l_ile_volcanique": {
         "infos": {
             "title": "L'île volcanique",
-            "description": "",
+            "description": "L'île volcanique est une île avec un volcan et une petite forêt l'entourant, c'est là bas que l'humanité commença à apparaître, c'est après en nageant que les premiers hommes encore à moitié primates ont rejoint le plus grand continent intrigué par aller voir ces grandes terres. Ainsi on y trouve les premières pierres taillées et les premiers langages dessinés sur les murs des grottes. C'est donc sur cette île à présent abandonnée que la cellule décide d'apparaître pour créer le nouveau monde. Il y à une aura presque mystique avec ce lieu sans réel raison, c'est sur cette île que le cavalier des évènements et de la matière ont décidé d'attendre le nouveau monde, car l'événement de l'arrivée de l'homme fut sur cette terre sous les yeux dépité des cavaliers de l'apocalypse quand un être aquatique commença à s'avancer sur la plage, et c'est aussi le premier endroit où la matière fut modelés par l'homme. M.Event apprécie le lieu car les premières pensées humaines y sont nées par des dessins, des sonorité pour s'exprimer, et Matter car c'est l'endroit que là cellule à choisi pour apparaître.",
             "frames": "1",
         },
         "path": {
@@ -173,7 +173,7 @@ var maps = {
     "l_uniterre": {
         "infos": {
             "title": "L'Uniterre",
-            "description": "",
+            "description": "L'Uniterre est en quelque sorte la capitale du multivers, c'est une planète immense où ont trouve beaucoup de point d'intérêt tel que le trio X, la demeure de celui qui à créer le voyage entre les dimensions, une des plus grandes églises de l'œil. Ont y retrouve aussi les soigneurs les plus compétent de l'univers mais encore les écoles les plus prestigieuses. En interne ont retrouvé commerce, boîte de nuit, des espèces du monde entier y viennent, blob, change-peau, anthropomorphe, humain, et autres. Sa place centrale est un grand cercle en forme d'œil en référence au culte le plus répandu dans cet univers, c'est en effet un des rares univers où le culte ne dérive pas et vie en harmonie avec la société et où chacun respecte et croit cette religion. De part l'extrême grandeur de cette terre les populations se concentrent beaucoup sur la capitale, les autres terres étant des sorte de relique historique de ce monde qui fut une des premières bulles crée, ici on trouve donc des architectures et des lieux clés, ainsi que des lieux sacrés. Si vous cherchez des technologies particulières, avez soif d'histoire et de connaissance c'est ici qu'il faut venir. Son horloge mesure l'heure, la minute et les jours d'une drôle de manière. La planète est généralement stable économiquement et socialement en ce qui concerne sa capitale, c'est donc un des endroits les plus sûrs au vu de ses nombreux défenseurs et système de défense tel que des champ de force magnétique. Une grande partie de l'efficacité de cette ville est due au docteur Reverso qui à partager ses inventions et création gratuitement au monde pour favoriser l'évolution de l'homme. En s'éloignant de la capitale les paysages varient, des montagnes, des marécages, des zones contrôlées par des forces de la nature ou par des 'dieu', attention, ici le nom de dieu designe un grade que l'on donne à ceux qui excellent de manière incontestable quelque part et dont leur talent est reconnu partout, ces gens viennent généralement sur ces terres pour exercer leur talent où il est mit en valeur, ainsi vous pouvez croisé le dieu de la musique, le dieu de la guerre et bien d'autres, ces gens sont soit des nomades soit ont un territoire entier sur ces terres.",
             "frames": "1",
         },
         "path": {
@@ -268,7 +268,7 @@ var maps = {
     "la_montagne_inversee": {
         "infos": {
             "title": "La montagne inversee",
-            "description": "",
+            "description": "La montagne inversée est un lieu de transition, monté cette montagne prend du temps et est dure, rude et dangereuse à cause de son extrême sobriété, ni plante ni arbre ni pousser, rien n'y vit ni meurt jamais. Si vous y survivez vous devrez monter une échelle montant au-delà des nuages en proies aux évènements naturelles. Cependant si vous êtes assez fort vous parviendrez en haut pour y trouver une île flottante. Sur celle-ci un peuple d'homme du ciel vit, des humains qui ont vécu avec le ciel depuis toujours, ils possèdent des aéronefs et ont dompté une race d'oiseaux géants. Ils sont assez pacifistes et sont même contre toute forme de violence.",
             "frames": "1",
         },
         "path": {
@@ -279,7 +279,7 @@ var maps = {
     "la_salle_d_entrainement": {
         "infos": {
             "title": "La salle d'entrainement",
-            "description": "",
+            "description": "Ce lieu est une zone d'entraînement crée par Mike pour lui et le trio X, ici ils essayent des armes ou des pouvoirs. Mike à créer ce mannequin à l'air idiot qui est quasiment incassable fait d'un matériel très dur, les mur sont également particulièrement résistent, il y à enfermé Max plusieur jour plusieurs fois pour le forcé à maîtriser certaines techniques de bases.",
             "frames": "1",
         },
         "path": {}
@@ -368,7 +368,7 @@ var maps = {
     "le_laboratoire_secret": {
         "infos": {
             "title": "Le laboratoire secret",
-            "description": "",
+            "description": "C'est le laboratoire secret de Mike, je ne pense pas que tu devrais être là, nous avons censuré le contenu pour ne pas avoir de problème avec votre sensibilité.",
             "frames": "1",
         },
         "path": {}
@@ -414,7 +414,7 @@ var maps = {
     "le_temple_des_elements": {
         "infos": {
             "title": "Le temple des elements",
-            "description": "",
+            "description": "Actuellement le territoire est en guerre contre un ennemi. La bête noir à élu domicile dans l'enceinte du bâtiment en marbre car selon lui le lieu n'est pas assez sécurisé. Le peuple qui veut avoir accès à leur lieux de prière à fait appel au dieu de la guerre pour leur prêter main forte pour avoir de nouveau accès à ce lieu sacré.",
             "frames": "1",
         },
         "path": {}
@@ -422,7 +422,7 @@ var maps = {
     "le_territoire_du_dieu_de_la_musique": {
         "infos": {
             "title": "Le territoire du dieu de la musique",
-            "description": "",
+            "description": "Le territoire du dieu de la musique est une sorte de scène énorme, un long couloir dont le sol est illuminé entouré de barres de son et au bout une table de mixage avec un public à l'arrière constitué de robots, fut un temps deux personnes jouaient derrière cette table, il est maintenant seul. Ce lieu beaucoup visité à l'époque où les gens s'entassaient sur ce long couloirs en écoutant de formidables musiques, maintenant le lieu est abandonné, fermé sur ordre de Rock dieu de la musique. Pourtant malgré tout, le lieu continue d'illuminer le ciel de ses nombreux spots lumineux. Depuis cet endroit ont peut modifier les sonorité du monde de l'Uniterre grâce, par exemple donner aux robinet le bruit d'une explosion. Ce lieu si manié par la mauvaise personne serait une catastrophe sans précédent pour la place qu'a le son dans la vie de tous les jours sans parler des tic tac de l'horloge qui par les propriétés magique de l'endroit pourrait avoir le bruit du décollage d'une fusée. Le nombre de mort due aux son dangereux, la peur causé pourrai faire plonger la capitale dans la chaos, imaginer vous habitez en ville et que soudain toutes les voitures sonnent comme des tirs d'armes, ont ne pourrais plus entendre notre voix ou celle des autres remplacé par des bruit de pluie et qu'en forêt les gland qui tombent sonnent comme des hurlements de torture. Le dieu de la musique y reste continuellement faisant son deuil de son ancienne coéquipière. On se demande quand ce lieux si apprécié ouvrira à nouveau, certains pensent que Rock se prépare et s'entraîne pour produire la chanson parfaite et faire un immense retour. Notez que cet endroit est défendu par des robots construit par le docteur Reverso pour servir le dieu de la musique et que l'endroit entier est également constitué comme un royaume pour lui, puisque tout un tas d'objets est présent pour produire du son ainsi des vagues de son, de tremblement, des coup de sonorités et bien d'autres peuvent être produits sur tout le territoire par Rock.",
             "frames": "1",
         },
         "path": {}
@@ -430,7 +430,7 @@ var maps = {
     "le_trio_x": {
         "infos": {
             "title": "Le trio X",
-            "description": "",
+            "description": "Le trio X est un bâtiment rectangulaire proche du centre, c'était un bâtiment désaffecté avant que Mike le rénove pour monter son entreprise de création d'armes et de technologie. N'importe qui peut venir commander un objet et le prix dépend des de la rareté des matériaux et de la complexité. Paradoxalement le bâtiment est très grand mais il n'y à comme employé qu'une personne à savoir Alice la meilleure amie de Mike, son nom est une référence aux créateurs qui étaient un trio, lui, Alice et Celestia qui quittera le groupe pour exercer ses capacités ailleurs lassé par resté au même endroit. Le trio X sera ensuite rejoint par Zoé et Max. Le bâtiment dispose d'un ascenseur et de trois sous sol, et était calme et silencieux avant Max et Zoé, maintenant il est un peu plus animé. Au-delà de ses services en termes de création de technologie et d'arme, le trio X à une fonction secrète qui est de tenir tête au poisson, protéger le multivers contre certaines menaces, récupérer des artefacts tels que la Chevalbarde, récupérer des composants sur des territoires dangereux ou abandonnés. Le trio X à ainsi des avantages en terme de placement et reçoit une forte demande, une majorité étant la création d'objets de souvenirs ou de décoration ce qui déprime Mike qui espérait beaucoup plus de réel demande technologique pour des entreprises ou d'armements, mais ce commerce reste une bonne couverture pour créer ses propres technologies et rendre crédible certaines actions aux yeux de la haute autorité.",
             "frames": "1",
         },
         "path": {
@@ -450,7 +450,7 @@ var maps = {
     "les_montagnes_du_sud": {
         "infos": {
             "title": "Les montagnes du sud",
-            "description": "",
+            "description": "Les montagnes du sud est un continent extrêmement petit montagneux, on y vit de chasse ou de culture de plantes qui poussent dans les environnements froids. Jeff à une maison dans les hauteurs où il loge Adam pour l'entraîner. Selon lui, affronter seul les ours ou des meutes de loups sont les meilleurs moyens pour s'entraîner, sa ville principale est en contrebas. C'est un continent assez calme il ne s'y passe quasiment jamais rien et il exporte mais importe en soit assez peu car n'a pas réellement besoin de plus. Il est loin des problématiques et des drames du continent principal. Cette maison qui est celle de Jeff fut construit par lui même avec l'aide d'un architecte locale à base de bois de sapin, vivre si haut en solitaire dans les montagnes est tant pour décourager les potentiels poursuivant de l'armée de la couronne que pour bénéficier d'un cadre naturel, brute et rude parfait pour développer le plein potentiel de la survie humaine.",
             "frames": "1",
         },
         "path": {
@@ -484,7 +484,7 @@ var maps = {
     "mike": {
         "infos": {
             "title": "Mike",
-            "description": "",
+            "description": "Mike est le dirigeant du trio X, une entreprise qui mène sa propre justice et vend des armements. Paradoxalement le trio X ne se compose que d'Alice et lui-même suivie de quelques tiers. Mike est également le troisième homme le plus intelligent au monde bien qu'il clame être le deuxième car le test de placement des trois individus les plus intelligent avait selon lui une question flou. Hors il s'agit qu'en réalité Mike est bien l'homme le plus intelligent du monde au vu de ses prouesses mais ça il le cache partiellement en gardant sa place de troisième. En effet Mike à monté une machine pour voyager entre les réalités, ainsi il est issue d'un autre monde où sont groupes est mort, ainsi il à tué l'intégralité des autres version de lui même et saute de réalité en réalité pour trouver celle où lui, Zoé, Max et Alice arrivent à la fin de l'aventure ensembles. Plus jeune il perd ses parents et sa maison par une autre version de lui-même expliquant son désir d'éliminer toutes les autres versions de lui-même. Puisque à chaque fois que l'aventure de Over nine se termine dans une réalité celle ci prend fin et en crée une nouvelle (sachant qu'il existe une trentaine de réalité actives en même temp) c'est régulier que Mike part tué d'autres lui pour éviter qu'ils ne prennent le dessus et ne deviennent une menace comme lui. Il à eu comme seul amie pendant son enfance Alice, fille qu'il aime secrètement, bien que tous les deux soient conscients de leur sentiment les un pote les autres ils préfèrent se focaliser sur leur travail. Après la destruction de sa maison Mike est partie pendant plusieurs années visiter le multivers après l'avoir découvert, malgré que son univers ne connaissait pas les autres il reviendra des années après pour inviter Alice à le rejoindre dans son aventure. Pendant ce temp il perfectionna la maîtrise de son aptitude et cotoya l'espace blanc longtemps. Mike à comme pouvoir la capacité de créer des pièges à ours à hauteur de un ou deux par jour. Cependant cela concerne un Mike qui non seulement n'a pas son niveau technologique actuellement avec ses nombreux armement et défense électroniques, mais également un Mike qui ne s'est pas sûr-entraîné. À présent son pouvoir est remonté tout en haut de l'évolution et n'est plus "créé des pièges à ours" mais "crée" tout court tout un tas de choses capable de tuer tel que des lames, des laser, des bras foreur, et d'autres. Il possède également la bulle de l'infini, technologie qui enferme dans le temp ceux qui sont touchés et remonte le temp de la bulle à chaque fois que le ciblé meurt et d'annule quand le lanceur meurt, ainsi après les événements de l'arc du cauchemar, Mike qui pensait enfin avoir trouvé une réalité où tout le monde survivait a détruit sa machine après qu'Alice est découvert sont existence et l'ai convaincu de le faire donc détruit tout espoir de revoir ses amis si ils meurent (ce qui arrive dans l'arc du cauchemar).  Il mettra de côté tout futur. Et allumera la bulle dans un 1v1 éternel (sept ans de combat estimé dans la bulle) contre Max pour le faire souffrir car il est responsable des événements de l'arc du cauchemar, le poussant à tuer son ami/mentor pour ne plus être enfermé dans la bulle. Après cela dans le cadre du contrat entre Max et l'élu, les événements de l'arc seront annulés et Mike et Alice reviendrons gardant souvenir des événements de l'arc et concluant enfin leur amour par peur de se perdre à nouveau. Mike est d'une nature pacifique et bienveillante envers Max (jusqu'à l'Arc du cauchemar après lequel il lui faudra un peu de temps pour apprécier Max à nouveau.) Il s'énerve très rarement et perd légèrement ses moyens quand il est avec Alice. Durant la guerre de l'œil lui et le trio X se battront contre l'œil et gagneront malgré qu'ils étaient en moins grand effectif. Zoé aime embêté Mike pour le poussé à bout et cela se conclut souvent par Zoé qui abandonne, malgré ses air lassé il aime beaucoup Max et Zoé, la preuve puisque il ne change pas de réalité seulement pour Alice malgré qu'elle est la femme qu'il aime. Évidemment quand il tue un Mike en changeant de réalité un prend sa place et se fait passer pour lui pour continuer l'histoire à sa place.",
             "frames": "1",
         },
         "path": {}
@@ -576,7 +576,7 @@ var maps = {
     "ou_voulez_vous_aller": {
         "infos": {
             "title": "Où voulez-vous aller ?",
-            "description": "",
+            "description": "Vous êtes dans l'ascenseur, il y à plusieurs choix de destination, le dernier sous sol à un petit papier scotché avec écrit 'non', il y à une petite fente à côté où inséré une clé pour appuyer sur le bouton, il y à aussi un bouton pour bloquer l'ascenseur pour des raisons floue, et… est ce que c'est un bouton pour faire exploser l'ascenseur ?!",
             "frames": "1",
         },
         "path": {
