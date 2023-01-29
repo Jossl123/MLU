@@ -38,6 +38,7 @@ async function back() {
 }
 
 async function change_pos(npos) {
+    mouse.color = ""
     pos = npos
     if (maps[pos].infos.frames > 1) document.getElementById("img").setAttribute("src", `./views/pictures/${pos}_1.png`)
     else document.getElementById("img").setAttribute("src", `./views/pictures/${pos}.png`)
