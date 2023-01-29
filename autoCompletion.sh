@@ -24,6 +24,7 @@ analyse () {
     for f in $1/*.png; 
     do
         fileName=$(echo $f | rev | cut -d / -f 1 |rev| cut -d . -f 1)
+        if [[ $fileName == '*' ]]; then continue; fi;
         cp $mapDir/defaultPerso.png $mapDir/$fileName.png
         cp $1/$fileName.png $picturesDir/$fileName.png
         convert -interpolate Integer -filter point -resize $2x$2 $picturesDir/$fileName.png $picturesDir/$fileName.png
@@ -31,5 +32,5 @@ analyse () {
     done;
 }
 
-analyse $originDirLieu 94
+analyse $originDirLieu 96
 analyse $originDirPerso 64

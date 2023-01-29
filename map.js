@@ -23,6 +23,14 @@ var maps = {
         },
         "path": {}
     },
+    "docteur_reverso": {
+        "infos": {
+            "title": "docteur_reverso",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "enilma": {
         "infos": {
             "title": "Enilma",
@@ -49,7 +57,9 @@ var maps = {
             "description": "Gunda est l'un des trois enfants de Xiu et est d'un passif lassé et provocateur. Son idéologie se base sur une peur irrationnelle de la mort l'entraînant à penser que ses désirs passent avant absolument tout quitte à ruiné des années de travail dans le but de faire un maximum de chose avant de mourir. Malgré ses pulsions qui le poussent à réaliser des actes terribles, il reste la tête du groupe du ‘S’. Son pouvoir se base sur la téléportation de lui où d'objets couplet avec une capacité de dimensions de poche où il peut mettre de petits objets. Bien qu'au quotidien il se fasse passer pour un simple informaticien de la tour il est un criminel recherché et un combattant redoutable ayant tué déjà beaucoup de héros. S'il a pris part au projet de Koto de mettre fin au monde c'est car l'idée l'amusait. N'importe quelle chose qui se met en travers de son chemin est anéanti par sa personne si ça le dérange, finalement la seule chose qui l'empêche de tuer tout ce qui bouge c'est Oto qui le raisonne quand il vrille. Comme sont frères Gunda à hérité du gène du Chaos et est donc une fois activé capable de téléporter des cargo entier où de faire de sa dimension de poche une boule trou noir dans sa main pour absorber des parties du corps de son adversaire, il sera également en possession d'un gène complet lui permettant de téléporté le temps lui-même, pouvoir qu'il utilisera pour une autre personne que lui-même, pour fille adoptive après avoir eu un violent coup de réalité. Ce coup de réalité concerne la mort de son amie d'enfance et collègue en plus d'être une amante. Cela lui causera pendant un arc entier un fort deuil, de l'alcoolisme et des périodes de violence extrême. À ce moment il se rend compte qu'il existe plus cruelle que lui et que se favoriser soit ne peut toujours le combler car parfois c'est dans la stabilité et en entretenant nos liens avec les autres que vient la joie. Ainsi il acceptera définitivement son rôle de père plutôt que de mentor à l'égard de Koto, acceptera enfin Oto comme son frère et reprendra le projet de fin du monde.Comme son frère il soufra des expériences de la tour qui essayaient de dupliquer le gène du chaos à travers une progéniture entre Xiu le génocidaire et sa sœur (qui en réalité n'est pas sa sœur du tout, elle n'est ni de sa famille ni de sa connaissance, elle est une parfaite inconnue). Ainsi il vivra sans recevoir d'amour de sa mère, sans savoir qui était son père et condamné à voir son frère qu'à travers une vitre de laboratoire. Il est également manieur de 'la lame monde' car il a passé le plus de temps à la manier. Souvent il laisse exploser ses émotions au détriment des autres par exemple il essayera de tuer sa fille dans un excès de tristesse et de deuil après la mort de sa meilleure amie. Malgré sa nature destructrice il a reçu le respect de Téros non seulement car il est le fils de son mentor mais aussi car selon lui si Gunda était la meilleure version de de lui-même, serait un homme formidable. Malgré tout il reste un criminel qui est soumis à ses pulsions de violence et se montre cruel quand pousser à bout comme avec Reck ou aimable quand l'envie lui prend comme avec le petit garçon du bar. Secrètement comme son frère il manque d'affection mais aussi de stabilité mais à beaucoup trop d'ego pour le montrer. Des trois enfants de Xiu, c'est celui qui a le plus hérité de son caractère. Pourtant en termes de cruauté cela ne concerne que ses plans et ses raisonnements mais en terme d'action pur c'est son frère Oto qui est le pire. Malgré le fait qu'Oto est le plus vieux frère de quelques secondes et que théoriquement c'est son corps c'est Gunda qui le contrôle le plus souvent et qui peut en prendre l'ascendant. En effet les deux frères vivaient petits séparément mais lors de leur premier contact après l'accident du labo. Ils ont fusionné due au fait qu'Oto et Gunda sont le même bébé fragmenté en deux être différent à la naissance (aptitudes qu'a là mère), c'est après avoir enfin quitté le labo, perdu leur innocence et développer une rage sans fin contre la Tour qu'ils vont s'échapper du laboratoire tuant tout autres scientifique croisé, cette situation fut entraîné par des scientifiques tentant de les tuer car ils sont les enfants de Xiu l'homme le plus détesté au monde. Ce qui leur vaudra leurs traumas respectifs en entraînera un abandon du projet initial pour leur sécurité remplacé par une tentative de contrôle mentale direct par des vidéos à images subliminal (échouées) plutôt que par un long développement tout au long de leur jeunesse, changement qui amènera à l'accident du laboratoire et à ce combat contre la Tour. Xiu est fière du chemin parcouru par son fils à la fin après la résurrection de Xiu, il montrera beaucoup d'intérêt pour son fils pour ses accomplissement et ses talents de combat. Du moment que quelqu'un l'intéresse il est assez serviable et discret, quand il le lasse il devient froid et agressif et quand il n'est plus amusé du tout, vous savez ce qu'il se passe…",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "oto"
+        }
     },
     "hanita": {
         "infos": {
@@ -99,7 +109,9 @@ var maps = {
             "description": "",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "la_montagne_inversee"
+        }
     },
     "l_hotel_lyric": {
         "infos": {
@@ -116,6 +128,16 @@ var maps = {
             "frames": "1",
         },
         "path": {}
+    },
+    "l_ile_flottante": {
+        "infos": {
+            "title": "L'île flottante",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {
+            "255.0.0": "le_temple_des_elements"
+        }
     },
     "l_ile_volcanique": {
         "infos": {
@@ -157,6 +179,8 @@ var maps = {
         "path": {
             "255.0.0": "le_trio_x",
             "0.255.0": "l_horloge_sur_la_montagne",
+            "0.0.255": "le_poisson",
+            "255.255.0": "le_laboratoire_du_docteur_reverso"
         }
     },
     "la_capitale": {
@@ -202,7 +226,9 @@ var maps = {
             "0.0.255": "la_tour",
             "255.255.0": "la_maison_de_gunda_et_oto",
             "255.0.255": "uh_oh",
-            "0.255.255": "star_city"
+            "0.255.255": "star_city",
+            "100.0.255": "reck",
+            "100.0.100": "xiu"
         }
     },
     "la_dimension_des_coroses": {
@@ -235,7 +261,20 @@ var maps = {
             "description": "La maison de Gunda est donc la maison où lui, son frère et Koto vivent, c'était avant un vieux gymnase qui fut abandonnée pour construire les villes plus loins. Maintenant après de long travaux c'est devenu une maison habitable, c'est aussi leur QG en tant que vilain. Après l'arrivée de Koto pas mal de chose ont du être changé tel que des monté plutôt que des marches, une douche plutôt qu'une baignoire. À l'arrière de la maison ont peut retrouver une sorte de décharge avec tout un tas de taule ou d'objets en métaux en train de rouillé. Il n'y à pas de réelle raison à la présence de ces choses mais ce n'est pas pour déplaire à Koto. La maison est sur élève sur une colline et est reculé d'absolument tout, que ce soit pour aller à la tour ou à la ville ont passe forcément par des bois épais.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "gunda"
+        }
+    },
+    "la_montagne_inversee": {
+        "infos": {
+            "title": "La montagne inversee",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {
+            "255.0.0": "l_ile_flottante",
+            "0.255.0": "le_territoire_du_dieu_de_la_musique"
+        }
     },
     "la_salle_d_entrainement": {
         "infos": {
@@ -316,6 +355,16 @@ var maps = {
         },
         "path": {}
     },
+    "le_laboratoire_du_docteur_reverso": {
+        "infos": {
+            "title": "Le laboratoire du docteur reverso",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {
+            "255.0.0": "docteur_reverso"
+        }
+    },
     "le_laboratoire_secret": {
         "infos": {
             "title": "Le laboratoire secret",
@@ -362,6 +411,22 @@ var maps = {
         },
         "path": {}
     },
+    "le_temple_des_elements": {
+        "infos": {
+            "title": "Le temple des elements",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "le_territoire_du_dieu_de_la_musique": {
+        "infos": {
+            "title": "Le territoire du dieu de la musique",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "le_trio_x": {
         "infos": {
             "title": "Le trio X",
@@ -370,6 +435,8 @@ var maps = {
         },
         "path": {
             "255.0.0": "ou_voulez_vous_aller",
+            "0.255.0": "mike",
+            "255.0.255": "zoe"
         }
     },
     "leo": {
@@ -390,9 +457,25 @@ var maps = {
             "255.0.0": "adam"
         }
     },
+    "les_rues_de_neoki": {
+        "infos": {
+            "title": "Les rues de neoki",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "marin": {
         "infos": {
             "title": "Marin",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "marine": {
+        "infos": {
+            "title": "Marine",
             "description": "",
             "frames": "1",
         },
@@ -460,7 +543,8 @@ var maps = {
             "frames": "1",
         },
         "path": {
-            "255.0.0": "hanita"
+            "255.0.0": "hanita",
+            "0.255.0": "les_rues_de_neoki"
         }
     },
     "neviss": {
@@ -485,7 +569,9 @@ var maps = {
             "description": "Oto est le frère de Gunda, il est plus âgé de quelques secondes. L'aptitude de leur mère étant séparée un être en deux, il est donc logiquement le vrai corps. Il était plus simple pour les scientifiques de voir lui et Gunda comme des frères que comme un seul être séparé en deux. Malgré que ce soit son corp Oto n'a le contrôle que rarement, il laisse Gunda aux commandes car il est plus réfléchi malgré son instabilité. Oto à beaucoup d'admiration pour son frère pour son courage, son intelligence et sa force ce qui l'a éclipsé de toute relation sociale. Pour être crédible dans le monde du travail Gunda dit que son aptitude est de changer de personnalité ainsi Oto à vécu sa vie à être appelé Gunda et être considérés comme une anomalie. Son désir d'attention n'a fait que s'accentuer quand Gunda adopte Koto, il se satisfera à l'idée de la traiter comme une reine et prendre le rôle de serviteur, rôle qui le débecte mais pour avoir de l'attention il est prêt à tout. Il à un tempérament très passif et calme en plus d'être manipulateur n'hésitant pas à jouer sur les émotions des gens. Lors de l'accident de l'apparition de Niko il perdra une collègue, seule personne qui le considérait comme un tout et non une addition à Gunda. Il restera silencieux pendant longtemps en essayant de maintenir Gunda calme suite à ses crises de colère destructrice jusqu'au moment où il eut un trop plein de peine. Oto finira par sérieusement s'énerver et prendra le contrôle sur sa vie en prenant contrôle de son corp plus souvent (car Gunda et Oto sont deux conscience dans le même corp qui se sont retrouver mélanger), il prendra le rôle d'oncle pour Koto laissant son rôle de serviteur de côté pour maintenant réellement être un membre de la famille, et avoir des collègues qui le considère comme un être à part entière. Il se révèlera être un bon oncle pour Koto et veillera à son éducation mais aussi un atout de puissance. L'aptitude d'Oto est l'attraction et la manipulation c'est à dire modelé la matière là déformé et la manipuler mais aussi attiré les objets ou les repousser. C'est grâce à cette aptitude surpuissante qu'il est capable d'arracher des étoiles du ciel pour les faires s'écraser sur l'ennemi, à son summum avec le gène du chaos entièrement activé, il est capable de manipuler les atomes et réformé le corp humain totalement. Ont pourrais dire qu'Oto n'a pas mauvais fond mais ce serait oublier qu'il reste violent et dangereux. Gunda qui le méprisait légèrement finira par le respecter quand il se montrera enfin capable de prendra l'ascendant sur le corps et de ne plus être son ombre. Oto était en général celui qui avait le contrôle s'il fallait tuer, il est celui qui à le plus souffert du manque d'amour maternelle et paternelle c'est pourquoi quand il verra son père c'est lui qui restera quasiment tout le long de la discussion aux commandes du corps. Ont pourrais dire qu'Oto dans un sens n'a jamais grandis et reste un enfant avec un pouvoir bien trop grand, en général, Oto à affronter des ennemis infiniment plus puissant et dangereux que son frère puisque lui est la puissance et son frère le cerveaux du duo, cependant il est loin d'être bête, c'est son côté impulsifs et son manque de recule qui fait qu'il semble agire sans réfléchir. C'est lui qui essayera de maintenir Gunda de tué sa fille, de détruire la ville ou de faire certain choix qui ruinerait leur plan de fin du monde donc souvent il est la voix de la raison pour Gunda quand il devient incontrôlable bien qu'il se fasse insulter constamment par celui ci. Quand les deux frères apprennent enfin à vivre ensemble et à s'apprécier et que Gunda révèle à son frère qu'il ne le déteste pas tant que ça. Ce fut le moment le plus important pour Oto.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "gunda"
+        }
     },
     "ou_voulez_vous_aller": {
         "infos": {
@@ -546,7 +632,11 @@ var maps = {
             "description": "Starcity est une cité classique avec de grands bâtiments et hlm, c'est un endroit idéal pour un discours mais aussi c'est l'endroit où beaucoup de héros habites. Il y a autre chose, c'est ici que se trouve l'organisation de Téros, une sorte de large bâtiment avec dedans dans une pièce un arbre illuminé par un plafond en vitre, avec un sol verdoyant et des vitres teintées sur les murs. Le taux de criminalité y est relativement haut mais c'est à cet endroit qu'il y à le plus de concentration d'habitants donc c'est dans Starcity qu'il y à le plus de publicité pour la Tour, de manifestation anti système et c'est également là que sont crée des objets sur mesure pour aidé à l'utilisation d'aptitudes de client, c'est là que se situe la branche technologique de la Tour, son centre d'économie, la maison de Luca, mais c'est aussi un endroit où ont peut acheter beaucoup d'armes, et où l'on risque de croiser les Kame.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "teros",
+            "0.255.0": "qizil",
+            "0.0.255": "uz"
+        }
     },
     "stratos": {
         "infos": {
