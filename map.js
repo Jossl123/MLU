@@ -132,7 +132,7 @@ var maps = {
     "l_ile_flottante": {
         "infos": {
             "title": "L'île flottante",
-            "description": "",
+            "description": "Le commerce de ce lieu est lié à un type de plante grimpante qui fournit épice et une sorte de petit insecte qui en née. C'est aussi supposément là bas que furent créés les éléments. Les gens sur ces terres sont de foie et adorent la nature. Aux extrémités de l'île ont trouvé un bâtiment en marbre qui garde des pierres élémentaires, celle-ci permettraient de manier l'utilité cachée de l'île. Ces pierres permettaient de déplacer l'île avec l'air, d'activé dans ses grottes les pierre d'eau provoquant la chute d'une quantité monstrueuse d'eau sur le sol, la pierre de feux réveillerai le coeur volcaniques et provoquerait une pluie de lave sous l'île et la pierre de terre manie la forme de l'île. Ainsi si quelqu'un avait ces pierres il aurait un royaume flottant inatteignable et extrêmement offensif. Ont pense qu'utiliser de la bonne manière les roches pourraient faire tout cela sur l'entière de l'Uniterre au lieu de l'île directement depuis en haut et provoquer la fin du monde distance, la technique en question est inconnue. Pour le moment.",
             "frames": "1",
         },
         "path": {
