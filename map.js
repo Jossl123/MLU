@@ -225,7 +225,9 @@ var maps = {
             "description": "La lune de sang est un troue circulaire dans le ciel créé après l'explosion d'une technologie inconnue. De ce troue c'est mit à couler un liquide rouge foncé qui à une propriété étrange, il corrompt ce qui y est exposé un peut comme un liquide radioactif. Cependant cette corruption bouleverse les règles physique et chimique mélangeant les règles, par exemple un caillou peut avoir les propriétés d'un explosif, certains mur d'endroits abandonnés peut avoir la consistance de l'eau. Ce n'est pas tout ce liquide après quelques années à commencer à sortir par le sol à certains endroits sur terre rendant finalement inutile le mur de la ville de Stratos. Ce liquide corrompt aussi les être humain, petit à petit ils naissent avec des chose anormale, un membre en plus, une masse réduite, une moins bonne vue, la corruption semble s'être mêlé à l'ADN humain et quand elle ronge totalement une personne sur le point de mourir elle se transforme en chimère soit un être humain déformé et animé par une chose: la faim. Au plus un être humain s'approche de la lune de sang au plus sa santé baissera et il développera des maladie, c'est à quelque centimètre d'un lac de ce liquide juste en dessous de la lune de sang que gît le cadavre de celui qui à vécu 143 vie encore debout. Est il vraiment mort ? La corruption à également pollué les animaux les rendant dangereux en les modifiant et à corrompu le ciel qui à présent à une sorte de couche orange, maintenant les couleurs ne sont plus vraiment nettes dehors et sont toutes orangé ou rougeâtre.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "celui_qui_a_vecu_143_vies"
+        }
     },
     "la_maison_de_gunda_et_oto": {
         "infos": {
@@ -388,6 +390,22 @@ var maps = {
             "255.0.0": "adam"
         }
     },
+    "marin": {
+        "infos": {
+            "title": "Marin",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "mike": {
+        "infos": {
+            "title": "Mike",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "MLU": {
         "infos": {
             "title": "Le Max littérature univers",
@@ -510,7 +528,9 @@ var maps = {
             "description": "",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "marin"
+        }
     },
     "royaume_des_cauchemards": {
         "infos": {
