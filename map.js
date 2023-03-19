@@ -7,6 +7,14 @@ var maps = {
         },
         "path": {}
     },
+    "addshop": {
+        "infos": {
+            "title": "Addshop",
+            "description": "???",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "celui_qui_a_vecu_143_vies": {
         "infos": {
             "title": "Celui qui a vecu 143 vie",
@@ -19,6 +27,14 @@ var maps = {
         "infos": {
             "title": "Cile",
             "description": "Cile fait partie du trio de Over nine, c'est une fille qui a beaucoup d'énergie et possiblement profondément folle. Elle souffre de saut d'humeur tellement violent que parfois, on dirait carrément une autre personne. Ce problème est dû à de l'angoisse post-traumatique après avoir perdu sa mère et avoir été abusé par son père pendant des années qui a sombré après le mort de sa femme. À l'école essayant aussi fort qu'elle le pouvait de se faire des amies elle dupliqua ses émotions et ses personnalités pour correspondre à tout le monde ce qui n'entraîna que plus de haine contre elle. Elle quitta ce cycle infernal enfin quand sa sœur qui vivait chez sa tante pris le relais et mena des poursuites juridiques pour récupérer Cile et sauvées ce qu'il restait à sauver. Malgré son lourd passé elle est étrangement positive et optimiste quand elle ne vrille pas mais elle est très facilement froissable et quand elle se sent blessé son côté dévasté prend le dessus et elle devient un danger pour elle-même. Malgré tout après avoir rejoint l'Over nine elle y trouva sa nouvelle famille et raison de vivre malgré beaucoup d'essais de s'enfuir. Cile hérita d'une capacité offerte par l'œil avec son nouveau travail qui consiste en des chaînes dorée qui lui permet de bloquer diverses choses telles que le mouvement d'un bras ou voir même bloqué le cerveau ou les pouvoirs de quelqu'un à un niveau plus élevé. Une capacité particulièrement puissante qui lui permet d'être un des meilleurs atouts de l'Over nine en effet c'est souvent elle qui renversera les situations de combat en la faveur d'elle et son équipe et qui même renversera le combat final contre Over grâce à une technique ultime. Parmis ses techniques avancées elle peut enfermé les êtres mentalement faible où sur qui elle à l'ascendant psychologique dans sa tête où il subira l'attaque d'une infinité de réplique de Cile, elle est aussi capable au maximum de sa force de cloner des êtres vivants en leur offrant une nouvelle existence mais cela lui demande de sacrifier quelque chose c'est à dire sont elle actuelle pour se cloné elle même dans le but de survivre au processus ce qui revient à un suicide pour laissé sa vie à un autre soit, et lui coûtera également un bras et un œil qui seront remplacées après par l'Over nine et ses technologie. Dans le combat contre l'œil contre toute attente elle choisit de se séparer du partie d'Ori avec Léo car elle considère que l'œil malgré les souffrances qu'il lui à infliger lui à permis de découvrir un monde nouveau et une famille plus belle encore que l'ancienne. Parfois elle met de l'argent dans la boite aux lettres de sa tante sans montrer et elle veille sur sa tante et sa sœur en secret car les agents n'ont pas le droit d'être en contact avec leur ancienne vie. Elle et Ori seront en couple vers la fin de l'histoire, Ori comme la partie calme et elle comme la partie folle. Elle a du respect vers Ori et voie Léo comme son frère ou son homologue dans ses bêtises en effet Cile fait énormément de bêtises et est extrêmement provocatrice en plus d'être d'une mauvaise fois extrême et particulièrement irrespectueuse avec les autres et elle à gardé un caractère très peste et enfantine.",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "dimension_NM": {
+        "infos": {
+            "title": "",
+            "description": "",
             "frames": "1",
         },
         "path": {}
@@ -77,10 +93,26 @@ var maps = {
         },
         "path": {}
     },
+    "l_antre_du_basilique": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "l_enfer": {
         "infos": {
             "title": "L'enfer",
             "description": "L'enfer est une grotte supposément Infini qui se situe sous le sol du monde et fait partie des sous sol du monde inatteignable sauf par les technologies de l'Over nine où par des portails. Comme on peut s'y attendre, c'est un endroit rocheux et chaud où coule de la lave en abondance, mais à un point extrême, respirer dedans fait s'engouffrer un air brûlant dans le corps humain peu chargé en oxygène. Au bout de trois respiration l'être humain devient faible puis finit par s'effondrer, concernant les roches elles sont partout brûlante capable de vous retirer la peau si vous y toucher. Pour y traverser il vous faudra avoir des chaussures épaisses et du matériel d'escalade. Dedans on peut y retrouver la race de monstre la plus puissante : Les Berserk. Des squelettes à là tête de feux en armure lourde, ils sont le fantôme d'anciens guerriers puissants et puisent leur force effrayante de leur haine qui grandit petit à petit. Au plus un Berserk vie longtemps au plus il est puissant c'est ainsi que dans l'Over nine in groupe est chargé de traquer tous ceux qui existe pour éviter l'existence d'un Berserk invincible, une légende jamais fondé cours que dans l'obscurité de la grotte seulement éclairé par le magma un Berserk vivant depuis le début du monde vie. Ils sont quasiment tous armés d'une épée mais de rares spécimens ont une lance. L'enfer est donc un lieux extrêmement dangereux tant à cause de ses monstres que à cause de l'environnement, cependant comparé aux autres étages il ne semble pas avoir une fonction particulière à part là presence de Berserk.",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "l_entree_de_l_antre_du_basilique": {
+        "infos": {
+            "title": "",
+            "description": "",
             "frames": "1",
         },
         "path": {}
@@ -149,6 +181,14 @@ var maps = {
             "255.0.0": "monsieur_event",
         }
     },
+    "l_interieur_du_addshop": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "l_over_nine": {
         "infos": {
             "title": "L'Over Nine",
@@ -166,6 +206,14 @@ var maps = {
         "infos": {
             "title": "L'UH",
             "description": "L'union de l'humanité est le reste du gouvernement qui à survécu à la catastrophe. Elle dirige avec difficulté la cité de Stratos et à organiser le projet d'espoir pour l'espèce humaine en obligeant des enfants des rues à aller à l'école dans l'espoir de reconstruire la société en échange d'un foyer et d'argent. Ils répriment violemment les manifestants et sa police est peut contrôler donc les écarts arrivent souvent causant la mort de plusieurs personnes, innocent compris. Malgré que Marin y est vu comme un dieu l'UH est la seule société qui essaye toujours de s'en débarrasser. Elle sert finalement d'administration pour ces enfants des rues et font très attention à ce que rien ne leur arrive. Le dirigeant ne peut être contesté sur les lois qu'il donne, ainsi si il meurt après avoir donné une lois restrictive, l'administration est obligée de continuer de la faire obéir même s'il doit y avoir des morts. Ils envoient également des groupes militaires dans le désert au milieu des murs pour essayer de résoudre, au début il y avait un réel espoir mais finalement avec le temps et la réduction de cet espoir c'est juste devenu une habitude.",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "l_unite": {
+        "infos": {
+            "title": "",
+            "description": "",
             "frames": "1",
         },
         "path": {}
@@ -214,6 +262,22 @@ var maps = {
             "255.0.100": "l_uniterre",
         }
     },
+    "la_carte_des_mondes_de_l_eclat": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "la_clinique_de_baran": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "la_dimension_de_no_more_heros": {
         "infos": {
             "title": "La dimension de no more heros",
@@ -229,6 +293,20 @@ var maps = {
             "0.255.255": "star_city",
             "100.0.255": "reck",
             "100.0.100": "xiu"
+        }
+    },
+    "la_dimension_des_coroses_v2": {
+        "infos": {
+            "title": "La dimension des coroses",
+            "description": "Le monde des Corose est un continent sur une planète quasiment uniquement faite d'eau. 'Corose' est le nom donné à de petits cœurs de cristal qui sont l'essence d'anciennes calamités qui peuvent être utilisés par un individu. Les entités secondaires sont légèrement fissurées, les primordial sont dans un parfait état et peuvent être 'ouverte', tout le continent est sous l'autorité d'un roi qui ne se montre que très peut. Selon l'époque les problématiques que doivent affronter ce monde sont diverses: affronter les quatre cavaliers de l'apocalypse, mettre fin à une épidémie corruptrice, évité un coup d'état, la quête de devenir le meilleur combattant. Ce monde évolue énormément avec le temp mais la majorité des histoires s'y passent quand il est comme cela avec ces éléments. Le système de pouvoir évolue avec les siècles et les avancé au fil des histoires. Il y a un problème évident de répartition des ressources et des richesses donc les assassins ou les tueurs sont assez commun. C'est un monde où certains cèdent au désespoir ou prêtes allégeance au roi, le continent principal s'occupe de produire les ressources majeures et les autres points clé les ressources mineurs qu'ils échangent contre les majeurs qui viennent souvent en bateau. Le continent principal est de manière surprenante vide, il a une large partie vide, de terrain vague plein d'herbe qui ne sont pas utilisé pour produire, cela est expliquer par la réticence des populations à s'étendre ainsi les villes majeures restes très étroites et resserrer et ne s'étendent sur les extrémités que très peut.",
+            "frames": "1",
+        },
+        "path": {
+            "255.0.0": "la_tour_infiniement_grande",
+            "0.255.0": "la_capitale",
+            "0.0.255": "la_ville_submergee",
+            "255.255.0": "l_ile_volcanique",
+            "0.255.255": "les_montagnes_du_sud"
         }
     },
     "la_dimension_des_coroses": {
@@ -292,6 +370,14 @@ var maps = {
         },
         "path": {}
     },
+    "la_tour_des_tenebres": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "la_tour_infiniement_grande": {
         "infos": {
             "title": "La tour infiniement grande",
@@ -347,6 +433,14 @@ var maps = {
             "0.255.0": "l_entree_de_la_scene",
         }
     },
+    "le_gouffre": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "le_laboratoire_de_la_tour": {
         "infos": {
             "title": "Le laboratoire de la tour",
@@ -381,6 +475,22 @@ var maps = {
         },
         "path": {}
     },
+    "le_magasin": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "le_monde_de_l_eclat": {
+        "infos": {
+            "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
     "le_monde_des_cites": {
         "infos": {
             "title": "Le monde des cités",
@@ -407,6 +517,14 @@ var maps = {
         "infos": {
             "title": "Le projet Météro",
             "description": "Antho et Hilly comme beaucoup d'enfants nés à Stratos souffrent de la corruption. Hilly à une vue trouble sans ses lunettes et le nez qui saigne souvent, Antho quant à lui à quatre dents plus pointus que la normal et à son poid particulièrement réduit tout comme la gravité terrestre l'impact moins que les autres. Cependant la raison pour laquelle Hilly à le nez qui saigne est en réalité un excès de liquide de machinerie que son corp produits puisque en réalité elle est le projet Métero, un robot qui fut programmé pour s'allumer dans un certain nombre d'années et chargé de tuer le docteur ayant trouvé un moyen de se cloné sous forme de spermatozoïdes. Antho devra donc tuer Hilly avant qu'elle ne le tue. Cela se finit par une victoire d'Antho qui après avoir perdue son amie décidé de la remonté comme il peut, cela la fera partiellement revenir car finalement elle ne peut plus penser ou parler, elle n’a ni souvenir ni forme humaine, elle obéit juste aux ordres donnés. Cependant avant d’être vaincus le robot était un danger absolue avec une grande porté, une mâchoire puissante, des membres capable de s’agrandir, exercé à tué c’est un modèle similaire qui lâché dans la nature put rasé des villes en une nuit en tuant des familles entières pendant qu’ils dorment, en effet la machine est très discrète et peut monter sur les plafond et les murs. Ainsi le double jeu joué par Hilly fut parfaitement réalisé car jamais Antho ne soupçonna qu’elle n’était pas un être humain, il est terrifiant de voir comme elle à leurrer tout le monde et feinté la sympathie et l’amitié pour pouvoir le tuer une fois que ce sera nécessaire. Sa fonction la plus effrayante est sans doute sa nuque qui peut s'étirer sur plusieurs mètres, qui permet à sa tête de serpenté dans l’espace autour d’elle.Hilly ou projet Météro. Est une machine créée par l'entreprise Météro dans l'objectif de tuer la menace qu'est le professeur. Ils ont copié le caractère de la meilleure amie du professeur et ont mis le projet en stand by jusqu'à ce que la nouvelle version du doc naisse en l'existence de Antho. Après avoir quitté Stratos, Hilly à fait preuve d'une capacité à soutenir Antho à toute épreuve et est parvenu à préserver son secret. Alors que Antho prenait peu à peu le caractère du docteur il à assembler avec elle les pièces de la bombe censé fermé la lune de sang. À la pièce finale, le projet Météro s'active et la personnalité de Hilly s'efface. Antho est forcé de tuer son amie. Le projet Météro n'aura pas réussi à tuer la nouvelle version du docteur. Mais en impactant aussi fort sa psyché à cause du traumatisme de sa mort. Antho ne suis pas les pas du docteur et ne devient pas comme lui. Ainsi il remontera comme il peut Hilly/Météro et arrivera à la faire fonctionner. Seulement elle n'est plus ni Météro ni Hilly, ne peut plus parler (du moins elle émet des grésillement) ne vois plus à priori. Le liquide noir due à ses mécanismes coule de son front cachant ses yeux. Le même liquide que Hilly quand elle mi-mai être humaine disais être du sang due à une excroissance dans son corp due à la corruption de la lune de sang. Ainsi le projet Météro est à présent pacifique avec Antho car le considère comme son administrateur, réussir à reconstruire Hilly permet à Antho d'éviter une solitude terrible malgré qu'il se sent régulièrement coupable de ce qu'il c'est passé. Météro à développer une sorte d'affection envers Antho ce qui dénote avec le caractère froid qu'avait Hilly. Sous sa fausse peau, elle porte deux autres bras et deux jambes ainsi qu'une mini foreuse, un bras épineux et un bras lance flamme. Dès le début de l'histoire le lecteur sait qui est véritablement Hilly est c'est ce qui est terrible car nous savons d'avance qu'elle n'a aucune sorte d'amitié pour Antho qui est seul et effrayé, que jamais elle n'a pensé réellement à comment il se sentait et que son objectif premier est de le faire survivre et le tué quand il aura assemblée la bombe pour éviter un deuxième cataclysme. Ainsi jusqu'à la dernière seconde Antho n'a fait que courir dans la gueule du loup.",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "le_royaume_des_nuages": {
+        "infos": {
+            "title": "",
+            "description": "",
             "frames": "1",
         },
         "path": {}
@@ -507,7 +625,7 @@ var maps = {
         "infos": {
             "title": "Le Max littérature univers",
             "description": "Le Max Littérature Univers (MLU) est un univers littéraire où prennent place beaucoup d’histoires parfois avec des liens entre elles. L’univers consiste en un livre sans couverture ouvert en éventail dont chaque page est une réalité. Cet univers est régi par une entité omnisciente nommée l’Oeil car il se manifesterait de la sorte. Personne ne sait s'il existe réellement mais des religions lui sont dédiées à travers le multivers, ont dit de lui qu’il ne fait qu'observer et qu’il n’est ni bon ni mauvais, pourtant parfois il agit bel et bien laissant ses motivations floues. Les personnes ayant une capacité de vision du quatrième mur disent qu’il agirait pour le bien du 'scénario' ou du 'script'. Il est normalement impossible de passer d’une page à une autre et il n’existe pas une infinité de réalité, en effet le livre de l’univers ne comporte qu’une trentaine de pages qui sont généralement toutes les mêmes questionnant leur utilité.",
-            "frames": "2",
+            "frames": "1",
         },
         "path": {
             "255.0.0": "l_espace_blanc",
