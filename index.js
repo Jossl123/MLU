@@ -9,7 +9,9 @@ var audio = new Audio("./music/" + defaultPos + ".mp3");
 audio.loop = true;
 var musicOn = false
 var hoverImg = false
-
+var seen = new Set()
+seen.add(defaultPos)
+const placesToSee = Object.keys(maps).length
 window.onload = async() => {
     imageData = load_map(`./views/maps/${pos}.png`)
     document.addEventListener("click", mouse_click);
@@ -28,6 +30,7 @@ window.onload = async() => {
         var popup = document.getElementById("help");
         if (e.target.id != "help") popup.classList.add("hidden");
     });
+    document.getElementById("numberOfPlacesToSee").innerHTML = placesToSee
 }
 
 async function back() {
@@ -40,6 +43,7 @@ async function back() {
 async function change_pos(npos) {
     mouse.color = ""
     pos = npos
+    seen.add(npos)
     if (maps[pos].infos.frames > 1) document.getElementById("img").setAttribute("src", `./views/pictures/${pos}_1.png`)
     else document.getElementById("img").setAttribute("src", `./views/pictures/${pos}.png`)
     document.getElementById("next_map").innerHTML = ""
@@ -47,6 +51,8 @@ async function change_pos(npos) {
     document.getElementById("description").innerHTML = maps[pos].infos.description
     document.getElementById("title").innerHTML = maps[pos].infos.title
     imageData = load_map(`./views/maps/${pos}.png`)
+    console.log(seen.size)
+    document.getElementById("numberOfPlacesSeen").innerHTML = seen.size
     load_music()
 }
 
@@ -83,7 +89,6 @@ function get_col() {
 const sleep = (milliseconds) => {
     return new Promise(resolve => setTimeout(resolve, milliseconds))
 }
-
 
 async function music_panel(on) {
     musicOn = !on;
