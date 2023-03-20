@@ -34,7 +34,7 @@ var maps = {
     "dimension_NM": {
         "infos": {
             "title": "",
-            "description": "",
+            "description": "Cette planète ne possède ni pouvoir ni technologie de voyage inter dimensionnel, elle est la seul comportant la vie niché dans un lieu nommé ‘espace’, c’est de là que vient la majorité des personnes avec le pouvoir de la comète, il est interdit de l’introduire au reste du multivers avant qu’elle le soit d’elle même, il y à peut à dire sur cet endroit à part qu’il est le seul où ont peut trouvé des ‘troues noirs’, malgré son ignorance du multivers ont peut y trouver des croyant de l’oeil présent illégalement. Pour se renseigner sur la faune, la flore et les continents de ce vaste monde il faut se rendre à ses bibliothèques puisque contrairement à d’autres mondes celui-ci est autorisé à la visite tant qu'on n’y trouble pas l’ordre.",
             "frames": "1",
         },
         "path": {}
@@ -96,7 +96,7 @@ var maps = {
     "l_antre_du_basilique": {
         "infos": {
             "title": "",
-            "description": "",
+            "description": "Ce labyrinthe immense souterrain avait dans le passé son entrée légèrement couverte, avec la modification du continent après la courte naissance de la cellule son entrée c’est dévoilé, ce lieu avait pour but d'enfermer une entité dans un labyrinthe qui changeait à chaque fin de cycle. A présent l’entité qui y vie est plus proche de la sortie que jamais et elle à déjà commencé à déborder sur notre monde, une horreur qui vas au delà de la conscience humaine et des description possible, un fléau, une calamité, enfermé depuis longtemps dans ce labyrinthe à plusieur étage froid et brumeux. Une plateforme surélevée permet de voir le labyrinthe plongeant dans l’horizon, avec au loin dans la brume les bruits de cette chose, restez y trop longtemps, quelque chose comme deux minutes et vous commencerez à devenir fou. Qui ? Qui ferait face à une telle chose ? Qui aurait la folie, l’inconscience d'affronter, quelque chose qui vas au-delà de dieu ?",
             "frames": "1",
         },
         "path": {}
@@ -112,7 +112,7 @@ var maps = {
     "l_entree_de_l_antre_du_basilique": {
         "infos": {
             "title": "",
-            "description": "",
+            "description": "Houla tu es sûr de vouloir déscendre ici ? Cette grotte était caché par des roché pour une raison non ?",
             "frames": "1",
         },
         "path": {}
@@ -273,7 +273,7 @@ var maps = {
     "la_clinique_de_baran": {
         "infos": {
             "title": "",
-            "description": "",
+            "description": "Cette clinique est assez commune dans les versions de Morry. Des mondes où le docteur Baran est devenu chef de son propre bâtiment. On y trouve selon les versions des testes de théories différentes tel que celles sur l’Unité, sur les pensées cosmiques. A chaque fois c’est le même schéma cependant, ce sont des lieu où des enfant, adolescant ou adultes sont convié quand ils souffrent de maladies rares physique ou psychologique, rapidement ce lieu leur fait perdre notions du temp et de leur ancienne vie avec un cadre de vie un peu spécial, vivre au quotidien dans un hopitale fait accepté des choses anormales. Le lieu n’est pas lugubre, ni morose, et c’est précisément le problème, aucun mal ne semble y être, tout le monde y vit gaiement. Cependant dans chaques version un de ses employé essaye désespérément de pousser les enfant à quitter cet endroit, chose très difficile tant sur le côté administratif que du côtés psychologique, car il est difficile de quitter un lieu où tout le monde t’aime et fais attention à toi, on y perd le sens du temp, on y reste des semaines, des mois, puis des année, nos familles attendent toujours des nouvelles de nous alors que nous devenons dépendant du lieu. Et un jour éventuellement on meurt, non pas triste, ni torturé ni maltraité, notre jugement ebrouillé par notre identité passé lentement éffacé par ces mur blanc, ces habits neutres, ces journée répétitives et ces visages que ont vois encore et encore.",
             "frames": "1",
         },
         "path": {}
@@ -298,7 +298,7 @@ var maps = {
     "la_dimension_des_coroses_v2": {
         "infos": {
             "title": "La dimension des coroses",
-            "description": "Le monde des Corose est un continent sur une planète quasiment uniquement faite d'eau. 'Corose' est le nom donné à de petits cœurs de cristal qui sont l'essence d'anciennes calamités qui peuvent être utilisés par un individu. Les entités secondaires sont légèrement fissurées, les primordial sont dans un parfait état et peuvent être 'ouverte', tout le continent est sous l'autorité d'un roi qui ne se montre que très peut. Selon l'époque les problématiques que doivent affronter ce monde sont diverses: affronter les quatre cavaliers de l'apocalypse, mettre fin à une épidémie corruptrice, évité un coup d'état, la quête de devenir le meilleur combattant. Ce monde évolue énormément avec le temp mais la majorité des histoires s'y passent quand il est comme cela avec ces éléments. Le système de pouvoir évolue avec les siècles et les avancé au fil des histoires. Il y a un problème évident de répartition des ressources et des richesses donc les assassins ou les tueurs sont assez commun. C'est un monde où certains cèdent au désespoir ou prêtes allégeance au roi, le continent principal s'occupe de produire les ressources majeures et les autres points clé les ressources mineurs qu'ils échangent contre les majeurs qui viennent souvent en bateau. Le continent principal est de manière surprenante vide, il a une large partie vide, de terrain vague plein d'herbe qui ne sont pas utilisé pour produire, cela est expliquer par la réticence des populations à s'étendre ainsi les villes majeures restes très étroites et resserrer et ne s'étendent sur les extrémités que très peut.",
+            "description": "Après les évènements du premier livre ce monde à bien changé, les Coroses ont été détruites par la fin du cycle définitif, suite à cette courte fin du monde les populations sont mitigées, la société à évolué, d’ancien lieu ont changé avec de nouvelles problématiques, des cultes, des rébellions. La forme du continent à changé, et l’a rapproché d’un autre, nos anciens héros ne sont plus que des légendes de guerres, cependant un mal approche, et à infecter le monde, le Basilic approche, ses apôtres se préparent. Les cultes de chair et de sang s'excitent, les secrets de la couronne s’élèvent alors qu’un nouveau régime se monte. Des intrigues politiques font leur arrivée alors que l’approche du dieu des cultes perturbe. Quand la nuit tombe, ont dénonce son voisin, ont l’égorge, ont brule en dansant autour d’un feu où quelques malheureux hurlent de douleurs…",
             "frames": "1",
         },
         "path": {
@@ -436,7 +436,7 @@ var maps = {
     "le_gouffre": {
         "infos": {
             "title": "",
-            "description": "",
+            "description": "Le gouffre sans fond est un troue dans une île qui semble ne jamais finir. S'engouffrant dans les obscuritées les plus profondes et les plus inconnus de la race humaine, plus on descend plus ont est susceptible de croiser des entité étranges et hostile mais aussi des morts car nombreux sont ceux qui y sont descendus avec l'espoir de devenir riche et de découvrir quelque chose qui changerait le monde. Malgré son côté dangereux, un peuple vit aux extrémités du gouffre pas trop profondément. Ils vivent des animaux qui en remontent ou de la pêche et font comme commerce de la vente de minerai rare des profondeur. À un certain point de profondeur il est impossible de voir, on atteint des couloirs verticaux resserrés, aussi petits qu'un homme où la moindre lumière ne passe pas même en allumant une lampe la flamme n'émet plus de lumière. Les quelques fou qui y descendent doivent se couché et avancé en rampant dans le noir absolue, tous s'y perdent et restent coincé dans le noir absolue ou bloqué dans un cul de sac couché, leur hurlement incapable d'atteindre la surface, même le soleil ne souhaite pas voir sa lumière allé aussi bas.",
             "frames": "1",
         },
         "path": {}
@@ -452,7 +452,7 @@ var maps = {
     "le_laboratoire_du_docteur_reverso": {
         "infos": {
             "title": "Le laboratoire du docteur reverso",
-            "description": "",
+            "description": "Le laboratoire de Reverso est un grand bâtiment arborant une image de clé à molette, dedans à l’entré en appuyant sur la sonnette posé au contoire ont peut rencontrer ce scientifique de génie pour des requêtes de construction comme pour le trio X, mais ici l’entreprise est gérée uniquement par lui et sa fille et ne concerne que des matériau de défenses. A l’entrée du bâtiment vous trouverez une porte qui vous demandera de dire votre requête pour juger si elle vaut le coup de déranger le docteur. Le vrai laboratoire est en réalité dans un sous-sol inaccessible par qui que ce soit d’autre que lui-même. Il est ce qu'on appelle un ‘pro humain’ qui veut voir la race humaine atteindre des sommets, sur l’uniterre il est un peut le défenseur de tous les lieux potentiellement dangereux, il à sauvé plusieurs fois le monde avec ces technologie. Il est en quelque sorte un héros national.",
             "frames": "1",
         },
         "path": {
@@ -470,7 +470,7 @@ var maps = {
     "le_lit_du_monde": {
         "infos": {
             "title": "Le lit du monde",
-            "description": "",
+            "description": "Le lit du monde est une grotte particulièrement petite et sombre, impossible d'y être debout. Elle est au plus bas du niveau atteignable du monde et est le dernier sous étage. Son sol est constitué d'une roche incassable et inconnue pourtant elle est fissurée, en effet elle se fissure lors de la naissance de certaines personnes, ou à leur crise oeillique, ou à leur mort. Les événements décisifs de ce monde fissurent le sol un peu plus. Il est théorisé que sous celle-ci la vérité de l'œil se cacherait. Qui est il, est il humain, à quoi ressemble il ? Existe-t- il vraiment, que veut-il ? Tout cela aurait ses réponses sous la roche, tout ce que l'on sait c'est qu'une réalité où cette roche s'ouvre entraîne des évènements de fin d'une réalité, et que la vision de ce qu'il y à dessous est la raison de la transformation de Ori en Roi.",
             "frames": "1",
         },
         "path": {}
@@ -478,7 +478,7 @@ var maps = {
     "le_magasin": {
         "infos": {
             "title": "",
-            "description": "",
+            "description": "Le magasin est un bâtiment fermé depuis longtemps déjà, les raisons de la fermeture du magasin sont floues. Cependant celui-ci reste atypique car il ne vendait quasiment que des tapis et des outils rudimentaires, à l'arrière boutique une pièce dont les murs et le plafond sont remplis de peluche clouée avec un écran incrusté à un endroit caché une porte menant à une cage d'escalier. Cet escalier descend assez profond et plus on descend plus le lieu absorbe la lumière qui est remplacé par une lumière légère voilette jusqu'en fin atteindre un sol. En bas il y à une porte blindé entre ouverte depuis peu avec à l'intérieur une salle pleine de mirroire, ceux ci pour une raison inconnue permettent de voir ‘la vérité’ et de prendre conscience du monde comme un éveil et d'échapper au fil de l'existence et de la narration. En touchant le miroir, on rentre dans un monde exactement similaire à l'autre sans aucun changement à part certains arbres remplacés par des dessins d'arbres et le fait que tous les êtres humains sont en vie et que certain continent ont doublé de volumes. Ainsi ce lieu est un fléau car toute personne étant en vie après les années deux mille y sont encore en vie mais altéré soit physiquement soit mentalement plus ou moins fort. Le lieu à deux problématiques, la première est le fait qu'un individu ayant fait face à la vérité est autrement instable et dangereux pour toute personne qu'il croise entrant dans une sorte de transe existentiel qui pousse au meurtre. La deuxième problématique est le remplacement lent mais sûr de proches en leur version altérée et l'arrivée de personnes mortes dans notre monde en version altérée. Ainsi le monde que l'on connaît et notre entourage est petit à petit remplacé sans qu'on s'en rend compte et généralement on s'en rend compte que trop tard quand les propriétés étranges et surréel des versions altérées commencent à se développer. Quelqu'un doit fermer cette porte mais personne ne sait qu'elle est ouverte et qu'elle est l'épicentre de cet événement horrifique. Ont remarque que à partir du moment où ont entame la descente de l'escalier ont est dans un état second comme en fin de soirée et en ressortant nous n'avons que des souvenirs vagues. Lentement ce lieu à corrompu la quasi intégralité des mirroire de Morry multipliant la vitesse de remplacement des êtres humain en leur version altérée. Remarqué que plus on s'éloigne du miroir dont ont est rentré plus le monde se tord et perd sa logique. Les altérations peuvent aller d'un simple doigt en plus à des membres atrophié ou des déformations sévère, ou simplement légèrement plus de cheveux, des ongles plus longs ou des yeux de couleur différente. Le taux de modification corporelle dépend uniquement du facteur social, plus l'individu est seul plus il sa copie sera altéré plus il sera socialement connecter plus les modification seront moindre jusqu'à aléatoirement entré dans une phase agressive où il adoptera temporairement les traits et les modifications d'un altéré socialement coupé du monde, dans cet état il remplacera autant de personnes que possible par un altéré avant de revenir à son état d'origine. Leur manière de parler et d'agir semble être des copies d'action humaine et les individus remplacés n'ont jamais été retrouvés présument morts.",
             "frames": "1",
         },
         "path": {}
@@ -645,7 +645,7 @@ var maps = {
     "monsieur_event": {
         "infos": {
             "title": "M.Event",
-            "description": "???",
+            "description": "M.Event est le cavalier de l'évènement, il adore s'intéresser aux manières de penser humaines et privilégie la conversation au combat. Il sera sur l'île du volcan car c'est là bas que sont nées les premières conception humaines, dans des dessins ou du taillage de pierre. C'est là la première expression de leur pensée sur leur environnement. Il est d'un naturel gentil et bienveillant, avant l'arrivée de la cellule il se contente de vivre en tant que pêcheurs. Son pouvoir se constitue sous forme de roue, à chaque fois que le cycle de seconde fini, son pouvoir s'active et lui propose un événement en fonction de ce qu'il veut, se faire de l'argent, se défendre, tué, plus les tendances sont forte plus le pourcentage de tombé sur un événement extrême sont grandes, ainsi si il est extrêmement en danger les évènements créés peuvent être fatale, pour l'atteindre il faut réagir en quelques secondes, avoir un sens du rythme très particulier, et être résistant. Il est au courant pour la machination de Weather, mais il s'en fiche car il à un sens de l'événement spécial, pour lui ce qui doit arriver est lié au cours du flow de l'événement et il n'a pas de pouvoir dessus, si Adam dois survivre il survivra, ainsi il n'essaye pas de forcer le destin sauf quand celui ci le poussé à le faire. Il à un rôle de grand père pour les autres cavaliers grâce à sa sagesse, il calme Matter quand il s'énerve trop et aime passer du bon temps. Il n'en reste pas moins l'un des cavaliers les plus dangereux. L'idée d'utiliser un humain pour prévenir et monter une armée pour défendre l'humanité dans des combats vient de lui et Matter, en réalité c'est plus pour lui une vision de leur laisser mourir avec honneur. Son âge malgré qu'il soit un cavalier vient du fait qu'il est le principe le plus vieux, car tout à commencé avec un évènement.",
             "frames": "1",
         },
         "path": {}
