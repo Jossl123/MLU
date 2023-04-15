@@ -112,7 +112,7 @@ var maps = {
     "l_entree_de_l_antre_du_basilique": {
         "infos": {
             "title": "",
-            "description": "",
+            "description": "Houla tu es sûr de vouloir déscendre ici ? Cette grotte était caché par des roché pour une raison non ?",
             "frames": "1",
         },
         "path": {}
