@@ -13,7 +13,9 @@ var maps = {
             "description": "???",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "l_interieur_du_addshop"
+        }
     },
     "celui_qui_a_vecu_143_vies": {
         "infos": {
@@ -485,11 +487,13 @@ var maps = {
     },
     "le_monde_de_l_eclat": {
         "infos": {
-            "title": "",
+            "title": "Le monde de l'eclat",
             "description": "",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "la_carte_des_mondes_de_l_eclat"
+        }
     },
     "le_monde_des_cites": {
         "infos": {
@@ -629,7 +633,9 @@ var maps = {
         },
         "path": {
             "255.0.0": "l_espace_blanc",
-            "0.255.0": "la_carte_des_dimensions_et_des_sous_mondes"
+            "0.255.0": "la_carte_des_dimensions_et_des_sous_mondes",
+            "0.0.255": "addshop",
+            "255.0.255": "le_monde_de_l_eclat"
         }
     },
     "monde_oublie": {

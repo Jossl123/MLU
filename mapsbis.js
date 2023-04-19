@@ -287,4 +287,31 @@ var map = {
      },
     "path": {}
  },
+
+"MLU": { 
+     "infos": {
+         "title": "MLU",
+         "description": "",
+         "frames": "1",
+     },
+    "path": {}
+ },
+
+"MLU": { 
+     "infos": {
+         "title": "MLU",
+         "description": "",
+         "frames": "1",
+     },
+    "path": {}
+ },
+
+"MLU": { 
+     "infos": {
+         "title": "MLU",
+         "description": "",
+         "frames": "1",
+     },
+    "path": {}
+ },
 }
