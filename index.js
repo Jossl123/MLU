@@ -13,7 +13,7 @@ var seen = new Set()
 seen.add(defaultPos)
 const placesToSee = Object.keys(maps).length
 window.onload = async() => {
-    imageData = load_map(`./views/maps/${pos}.png`)
+    imageData = await load_map(`./views/maps/${pos}.png`)
     document.addEventListener("click", mouse_click);
     await change_pos(pos)
 
@@ -65,6 +65,7 @@ function mouse_click(e) {
 
 function mouse_position(e) {
     var bo = document.getElementById("img").getBoundingClientRect()
+    ratio = (document.getElementById("img").height / mapImage.height)
     mouse.x = Math.floor((e.clientX - bo.x) / ratio);
     mouse.y = Math.floor((e.clientY - bo.y) / ratio);
     get_col()
@@ -142,7 +143,7 @@ function doesFileExist(urlToFile) {
     }
 }
 
-function load_map(src) {
+async function load_map(src) {
     mapImage = new Image();
     mapImage.crossOrigin = "Anonymous";
     mapImage.onload = function() {
