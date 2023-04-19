@@ -117,7 +117,9 @@ var maps = {
             "description": "Houla tu es sûr de vouloir déscendre ici ? Cette grotte était caché par des roché pour une raison non ?",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "l_antre_du_basilique"
+        }
     },
     "l_entree_de_la_scene": {
         "infos": {
@@ -161,7 +163,9 @@ var maps = {
             "description": "L'hôtel Neverend, appelé avant Iris hôtel est un drôle de bâtiment sans aucun doute. Au début de sont histoire le bâtiment était un hôpital, le seul de la région ainsi il avait beaucoup de clientèle cependant le docteur Baran y exerçait, le docteur Baran est un personnage que l'ont retrouve dans plusieurs versions de Morry, ses ambitions changes d'une version à l'autre, toujours est il que cette version à séquestré et torturé nombreux enfants et patients dans les sous sol du bâtiment, ses actions furent découvertes et il fut arrêté, cependant les traumatisme de la police qui découvrit ce qu'il y avait derrière la massive porte métallique des sous sol continue. Après cela la côte de population du bâtiment s'effondra presque immédiatement suite à la peur qu'inspirait l'endroit avec ces histoires de meurtres d'une violence sans nom. Pourtant un homme riche arriva en ville, certains de pouvoir capitalisé sur l'histoire de l'endroit il construit un nouveau bâtiment après avoir fait détruire l'ancien bâtiment abandonné. Un hôtel, rapidement il y eut des problèmes, une eau rouge, des disparus, des accidents. Alors que la construction était presque finie, le constructeur sombra dans la folie alors qu'il voyait des choses de plus en plus terrible,il entra dans une frénésie constructrice en ajoutant toujours plus de pièce sans logique, avec des placements et des couleurs étrange, certaines portes menant au vide, d'autres à une piscine très profonde, des escaliers verticale ou des pièces rotatives, il dépensa autant qu'il put pour que l'horreur qui se déplace en ces terres se perde dans cet endroit infernal. Cependant il fut interné, tué par un mystérieux médecin qui disparut le jour d'après, et l'hôtel resta inachevé. Son histoire ne s'arrête pas là, au fil des ans alors que la population oubliait l'existence de ce bâtiment en plein milieu de la forêt, la corruption et le cauchemar se saisit de cette zone de la ville et l'hôtel dont le diable semblait arpenté les couloirs tordues et à l'envers, maintenant le bâtiment est infiniment plus grand à l'intérieur qu'à l'extérieur, parfois en sortant d'une pièce, la pièce de dernière nous change, quand les lumières s'éteignent ont peut se retrouver à un tout autre endroit une fois le courant revenu, nombreux sont ceux ayant essayé de visiter l'endroit, adolescents, journaliste, mais tous sont mort, de faim, de soif, d'autre chose ? C'est pour cela que la population locale finie par appeler l'endroit l'hôtel Neverend, l'hôtel qui ne finit jamais.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "le_magasin"
+        }
     },
     "l_ile_flottante": {
         "infos": {
@@ -170,7 +174,8 @@ var maps = {
             "frames": "1",
         },
         "path": {
-            "255.0.0": "le_temple_des_elements"
+            "255.0.0": "le_temple_des_elements",
+            "0.255.0": "le_royaume_des_nuages"
         }
     },
     "l_ile_volcanique": {
@@ -262,11 +267,20 @@ var maps = {
             "128.64.0": "la_dimension_de_no_more_heros",
             "0.0.128": "morry",
             "255.0.100": "l_uniterre",
+            "100.200.0": "la_dimension_NM"
         }
     },
     "la_carte_des_mondes_de_l_eclat": {
         "infos": {
             "title": "",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {}
+    },
+    "la_chapelle": {
+        "infos": {
+            "title": "La chapelle",
             "description": "",
             "frames": "1",
         },
@@ -278,7 +292,9 @@ var maps = {
             "description": "Cette clinique est assez commune dans les versions de Morry. Des mondes où le docteur Baran est devenu chef de son propre bâtiment. On y trouve selon les versions des testes de théories différentes tel que celles sur l’Unité, sur les pensées cosmiques. A chaque fois c’est le même schéma cependant, ce sont des lieu où des enfant, adolescant ou adultes sont convié quand ils souffrent de maladies rares physique ou psychologique, rapidement ce lieu leur fait perdre notions du temp et de leur ancienne vie avec un cadre de vie un peu spécial, vivre au quotidien dans un hopitale fait accepté des choses anormales. Le lieu n’est pas lugubre, ni morose, et c’est précisément le problème, aucun mal ne semble y être, tout le monde y vit gaiement. Cependant dans chaques version un de ses employé essaye désespérément de pousser les enfant à quitter cet endroit, chose très difficile tant sur le côté administratif que du côtés psychologique, car il est difficile de quitter un lieu où tout le monde t’aime et fais attention à toi, on y perd le sens du temp, on y reste des semaines, des mois, puis des année, nos familles attendent toujours des nouvelles de nous alors que nous devenons dépendant du lieu. Et un jour éventuellement on meurt, non pas triste, ni torturé ni maltraité, notre jugement ebrouillé par notre identité passé lentement éffacé par ces mur blanc, ces habits neutres, ces journée répétitives et ces visages que ont vois encore et encore.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "l_unite"
+        }
     },
     "la_dimension_de_no_more_heros": {
         "infos": {
@@ -331,6 +347,15 @@ var maps = {
             "0.100.100": "la_dimension_des_coroses_v2"
         }
     },
+    "la_dimension_NM": {
+        "infos": {
+            "title": "La dimension NM",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {
+        }
+    },
     "la_lune_de_sang": {
         "infos": {
             "title": "La lune de sang",
@@ -359,7 +384,9 @@ var maps = {
         },
         "path": {
             "255.0.0": "l_ile_flottante",
-            "0.255.0": "le_territoire_du_dieu_de_la_musique"
+            "0.255.0": "le_territoire_du_dieu_de_la_musique",
+            "0.0.255": "la_chapelle",
+            "255.255.0": "la_tour_des_tenebres"
         }
     },
     "la_salle_d_entrainement": {
@@ -498,7 +525,9 @@ var maps = {
             "description": "Le magasin est un bâtiment fermé depuis longtemps déjà, les raisons de la fermeture du magasin sont floues. Cependant celui-ci reste atypique car il ne vendait quasiment que des tapis et des outils rudimentaires, à l'arrière boutique une pièce dont les murs et le plafond sont remplis de peluche clouée avec un écran incrusté à un endroit caché une porte menant à une cage d'escalier. Cet escalier descend assez profond et plus on descend plus le lieu absorbe la lumière qui est remplacé par une lumière légère voilette jusqu'en fin atteindre un sol. En bas il y à une porte blindé entre ouverte depuis peu avec à l'intérieur une salle pleine de mirroire, ceux ci pour une raison inconnue permettent de voir ‘la vérité’ et de prendre conscience du monde comme un éveil et d'échapper au fil de l'existence et de la narration. En touchant le miroir, on rentre dans un monde exactement similaire à l'autre sans aucun changement à part certains arbres remplacés par des dessins d'arbres et le fait que tous les êtres humains sont en vie et que certains continents ont doublé de volume. Ainsi ce lieu est un fléau car toute personne étant en vie après les années deux mille y sont encore en vie mais altéré soit physiquement soit mentalement plus ou moins fort. Le lieu à deux problématiques, la première est le fait qu'un individu ayant fait face à la vérité est autrement instable et dangereux pour toute personne qu'il croise entrant dans une sorte de transe existentiel qui pousse au meurtre. La deuxième problématique est le remplacement lent mais sûr de proches en leur version altérée et l'arrivée de personnes mortes dans notre monde en version altérée. Ainsi le monde que l'on connaît et notre entourage est petit à petit remplacé sans qu'on s'en rend compte et généralement on s'en rend compte que trop tard quand les propriétés étranges et surréel des versions altérées commencent à se développer. Quelqu'un doit fermer cette porte mais personne ne sait qu'elle est ouverte et qu'elle est l'épicentre de cet événement horrifique. Ont remarque que à partir du moment où ont entame la descente de l'escalier ont est dans un état second comme en fin de soirée et en ressortant nous n'avons que des souvenirs vagues. Lentement ce lieu à corrompu la quasi intégralité des mirroire de Morry multipliant la vitesse de remplacement des êtres humain en leur version altérée. Remarqué que plus on s'éloigne du miroir dont ont est rentré plus le monde se tord et perd sa logique. Les altérations peuvent aller d'un simple doigt en plus à des membres atrophié ou des déformations sévère, ou simplement légèrement plus de cheveux, des ongles plus longs ou des yeux de couleur différente. Le taux de modification corporelle dépend uniquement du facteur social, plus l'individu est seul plus il sa copie sera altéré plus il sera socialement connecter plus les modification seront moindre jusqu'à aléatoirement entré dans une phase agressive où il adoptera temporairement les traits et les modifications d'un altéré socialement coupé du monde, dans cet état il remplacera autant de personnes que possible par un altéré avant de revenir à son état d'origine. Leur manière de parler et d'agir semble être des copies d'action humaine et les individus remplacés n'ont jamais été retrouvés présument morts.",
             "frames": "1",
         },
-        "path": {}
+        "path": {
+            "255.0.0": "la_clinique_de_baran"
+        }
     },
     "le_monde_de_l_eclat": {
         "infos": {

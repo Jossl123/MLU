@@ -314,4 +314,22 @@ var map = {
      },
     "path": {}
  },
+
+"le_magasin": { 
+     "infos": {
+         "title": "le_magasin",
+         "description": "",
+         "frames": "1",
+     },
+    "path": {}
+ },
+
+"la_dimension_NM": { 
+     "infos": {
+         "title": "la_dimension_NM",
+         "description": "",
+         "frames": "1",
+     },
+    "path": {}
+ },
 }

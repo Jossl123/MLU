@@ -51,7 +51,6 @@ async function change_pos(npos) {
     document.getElementById("description").innerHTML = maps[pos].infos.description
     document.getElementById("title").innerHTML = maps[pos].infos.title
     imageData = load_map(`./views/maps/${pos}.png`)
-    console.log(seen.size)
     document.getElementById("numberOfPlacesSeen").innerHTML = seen.size
     load_music()
 }
