@@ -10,7 +10,7 @@ var maps = {
     "addshop": {
         "infos": {
             "title": "Addshop",
-            "description": "???",
+            "descriptionDrôle de structure rectangulaire dans l'univers, le Addshop est le lieu où on achète tout, on vend tout et vois tout. Vous cherchez à acheter des produits des différents univers ? N'hésitez plus ! Des stylos explosifs, des figurines de vos personnages préférés, des gens, des entités inconnues ou un bureau vous y trouverez forcément ce que vous voulez ! On dit que ce lieu pourrait même vendre à la mort elle-même ! Ce lieu n'est pas forcément bien vu pour sa dimension sans contrôle, en effet sa politique est une liberté absolue de produits, ainsi des artefacts dangereux peuvent y être achetés, mais aussi des anomalies. La problématique du contenu et des droits des différents objets est un cauchemar à gérer pour ceux qui sont divins ou supérieurs. Ce fléau commerciale à ses propres mondes malgré ses magasins dédiés à des univers de d'autres monde. Il y à un endroit où aller dans le monde et c'est ici !": "",
             "frames": "1",
         },
         "path": {
@@ -35,7 +35,7 @@ var maps = {
     },
     "dimension_NM": {
         "infos": {
-            "title": "",
+            "title": "Dimension NM",
             "description": "Cette planète ne possède ni pouvoir ni technologie de voyage inter dimensionnel, elle est la seul comportant la vie niché dans un lieu nommé ‘espace’, c’est de là que vient la majorité des personnes avec le pouvoir de la comète, il est interdit de l’introduire au reste du multivers avant qu’elle le soit d’elle même, il y à peut à dire sur cet endroit à part qu’il est le seul où ont peut trouvé des ‘troues noirs’, malgré son ignorance du multivers ont peut y trouver des croyant de l’oeil présent illégalement. Pour se renseigner sur la faune, la flore et les continents de ce vaste monde il faut se rendre à ses bibliothèques puisque contrairement à d’autres mondes celui-ci est autorisé à la visite tant qu'on n’y trouble pas l’ordre.",
             "frames": "1",
         },
@@ -97,7 +97,7 @@ var maps = {
     },
     "l_antre_du_basilique": {
         "infos": {
-            "title": "",
+            "title": "L'antre du Basilique",
             "description": "Ce labyrinthe immense souterrain avait dans le passé son entrée légèrement couverte, avec la modification du continent après la courte naissance de la cellule son entrée c’est dévoilé, ce lieu avait pour but d'enfermer une entité dans un labyrinthe qui changeait à chaque fin de cycle. A présent l’entité qui y vie est plus proche de la sortie que jamais et elle à déjà commencé à déborder sur notre monde, une horreur qui vas au delà de la conscience humaine et des description possible, un fléau, une calamité, enfermé depuis longtemps dans ce labyrinthe à plusieur étage froid et brumeux. Une plateforme surélevée permet de voir le labyrinthe plongeant dans l’horizon, avec au loin dans la brume les bruits de cette chose, restez y trop longtemps, quelque chose comme deux minutes et vous commencerez à devenir fou. Qui ? Qui ferait face à une telle chose ? Qui aurait la folie, l’inconscience d'affronter, quelque chose qui vas au-delà de dieu ?",
             "frames": "1",
         },
@@ -113,7 +113,7 @@ var maps = {
     },
     "l_entree_de_l_antre_du_basilique": {
         "infos": {
-            "title": "",
+            "title": "L'entrée de l'antre du Basilique",
             "description": "Houla tu es sûr de vouloir déscendre ici ? Cette grotte était caché par des roché pour une raison non ?",
             "frames": "1",
         },
@@ -190,8 +190,8 @@ var maps = {
     },
     "l_interieur_du_addshop": {
         "infos": {
-            "title": "",
-            "description": "",
+            "title": "L'interieur du ADDSHOP",
+            "description": "L'intérieur du Addshop consiste en une suite de magasin probablement infini. Le sol est fait de dalle blanche d'un propre jamais vu, et les murs ont un papier peint rose clair. Les univers dédiés à ce magasin sont des publicité. En effet les magasins dédié au Addshop passe toute la journée sûr de petits écrans en intérieur ou à l'extérieur du magasin des publicités des univers qui n'ont pas conscience d'être une pub pour des produits dérivés, pour y avoir accès il faut se rendre en arrière boutique et ouvrir la porte pour découvrir le monde sur lequel se base les produits dérivés. Ce sont en général des mondes extravagants avec un drôle de fonctionnement. Contrairement au MLU la race humaine n'est pas forcément la plus présente mais une forme d'entité humanoïde avec des objets à la place de différents membres tel que la tête ou les jambes voire même le torse. Le lieu est plaisant à visiter, vous y trouverez toujours à manger et à boire et même un service d'aide si vous vous perdez ou si vous cherchez un produit en particulier. Cependant notez que la détérioration ou le non-respect du lieu entraînera votre mort presque immédiate. Les différents moyens de monter sont par des escaliers, des escalators ou des ascenseurs, vous croiserez ici et là des fontaines en rose pâle. Il est cependant noté malgré l'aspect presque infini du lieu que plus vous montez plus la luminosité augmente plus vous descendez plus celle-ci diminue et le lieu devient insalubre. Comme tout bon magasin, il y a des horaires de fermeture où les clients sont priés de partir, impossible de savoir ce qui se passe lorsque les lumières s'éteignent. L'aspect le plus surprenant du lieu est la sensation de solitude en arpentant ces longues galeries vides avec cette légère musique et les bruits des quelques fontaines coupées par des postes publicitaires qui sortent des haut-parleurs. En effet il est extrêmement rare de croiser des individus, même à l'intérieur des magasins vous ne trouverez personne le comptoir est en vide, vous pouvez bien être tenté de voler si vous en avez le courage mais je ne suis pas sûr que ce soit une histoire de bravoure mais plutôt d'idiotie.",
             "frames": "1",
         },
         "path": {}
@@ -219,7 +219,7 @@ var maps = {
     },
     "l_unite": {
         "infos": {
-            "title": "",
+            "title": "L'unité",
             "description": "",
             "frames": "1",
         },
@@ -272,8 +272,8 @@ var maps = {
     },
     "la_carte_des_mondes_de_l_eclat": {
         "infos": {
-            "title": "",
-            "description": "",
+            "title": "La carte_des mondes de l'éclat",
+            "description": "Une fois la lumière passée nous nous retrouvons dans un vaste monde où la seule entrée est une sorte de large plateau jaune, l'univers tout entier est entouré par cette sorte de fibre rose presque organique. L'éclat à une gestion relativement spéciale de ces univers. En effet les différences d'univers sont reliés par des toboggans. Prendre un toboggan ne veut pas forcément dire que l'on atterrira là où il finit. Les habitants de ce monde ont une sorte de connaissance complexe du système de voyage à travers les toboggans un toboggan selon l'heure ne mènera pas au même endroit et chacun d'entre eux à son entrée possède une espèce de petite roue qui entoure celle-ci qui une fois bouger change la destination. Connaître cette espèce de système de voyage inconstant est essentiel car si vous prenez le mauvais toboggan au mauvais moment vous risquez de vous retrouver soit dans un univers totalement différent de celui que vous aviez prévu ou vous risquez de vous retrouver dans une salle vide avec aucun autre toboggan pour sortir destiné à mourir de faim et de soif. Les univers sont en réalité assez petits comportant au maximum deux ou trois planètes, à travers les univers on peut croiser plusieurs races telles que les anomalies les mimiques ou les êtres humains. Tout comme le MLU, les différents univers ne sont pas tous au courant de l'existence des autres ainsi les univers qui ne connaissent pas l'existence des autres se voient en quelque sorte incapable de trouver les toboggans comme si c'était une sorte de sort, sauf évidemment si on les force à les trouver. Ce monde possède différentes entités divines qui ne sont pas l'éclat mais qui vivent dans son univers, chacun à sa manière et chacun pour ses raisons. Certaines rares personnes dans ce monde peuvent développer la 'pensé 41' qui part une certaine schématisation de calcul et d'observation de la vie de tous les jours permet de faire tomber le voile sur l'univers tout entier dévoilant que le monde de l'éclat n'est pas une suite de toboggan mais plutôt un immense arbre avec de nombreuses racines. Ce monde est beaucoup plus stable que celui du MLU et possède beaucoup moins de personnages qui sortent du cadre donné, voir aucun.",
             "frames": "1",
         },
         "path": {}
@@ -281,14 +281,14 @@ var maps = {
     "la_chapelle": {
         "infos": {
             "title": "La chapelle",
-            "description": "",
+            "description": "La chapelle est une structure lointaine dans les montagnes du Nord. Personne ne sait qu'elle est là, personne ne s'y aventure et personne ne s'intéresse à la trouver tout comme personne ne connaît son existence son utilité et pour le moment inconnu mais une chose est sûre ce lieu est sacré et l'intérieur ne manquera pas de rendre fou le plus fort des hommes.",
             "frames": "1",
         },
         "path": {}
     },
     "la_clinique_de_baran": {
         "infos": {
-            "title": "",
+            "title": "La clinique Baran",
             "description": "Cette clinique est assez commune dans les versions de Morry. Des mondes où le docteur Baran est devenu chef de son propre bâtiment. On y trouve selon les versions des testes de théories différentes tel que celles sur l’Unité, sur les pensées cosmiques. A chaque fois c’est le même schéma cependant, ce sont des lieu où des enfant, adolescant ou adultes sont convié quand ils souffrent de maladies rares physique ou psychologique, rapidement ce lieu leur fait perdre notions du temp et de leur ancienne vie avec un cadre de vie un peu spécial, vivre au quotidien dans un hopitale fait accepté des choses anormales. Le lieu n’est pas lugubre, ni morose, et c’est précisément le problème, aucun mal ne semble y être, tout le monde y vit gaiement. Cependant dans chaques version un de ses employé essaye désespérément de pousser les enfant à quitter cet endroit, chose très difficile tant sur le côté administratif que du côtés psychologique, car il est difficile de quitter un lieu où tout le monde t’aime et fais attention à toi, on y perd le sens du temp, on y reste des semaines, des mois, puis des année, nos familles attendent toujours des nouvelles de nous alors que nous devenons dépendant du lieu. Et un jour éventuellement on meurt, non pas triste, ni torturé ni maltraité, notre jugement ebrouillé par notre identité passé lentement éffacé par ces mur blanc, ces habits neutres, ces journée répétitives et ces visages que ont vois encore et encore.",
             "frames": "1",
         },
@@ -350,7 +350,7 @@ var maps = {
     "la_dimension_NM": {
         "infos": {
             "title": "La dimension NM",
-            "description": "",
+            "description": "Cette planète ne possède ni pouvoir ni technologie de voyage inter dimensionnel, elle est la seul comportant la vie niché dans un lieu nommé ‘espace’, c’est de là que vient la majorité des personnes avec le pouvoir de la comète, il est interdit de l’introduire au reste du multivers avant qu’elle le soit d’elle même, il y à peut à dire sur cet endroit à part qu’il est le seul où ont peut trouvé des ‘troues noirs’, malgré son ignorance du multivers ont peut y trouver des croyant de l’oeil présent illégalement. Pour se renseigner sur la faune, la flore et les continents de ce vaste monde il faut se rendre à ses bibliothèques puisque contrairement à d’autres mondes celui-ci est autorisé à la visite tant qu'on n’y trouble pas l’ordre.",
             "frames": "1",
         },
         "path": {
@@ -407,7 +407,7 @@ var maps = {
     },
     "la_tour_des_tenebres": {
         "infos": {
-            "title": "",
+            "title": "La tour des ténèbres",
             "description": "La tour des ténèbre est une sorte de building immense noir, d’un noir absolus qui absorbe toute lumière, la seul chose qui est illuminé sont des fenêtre donnant à des chambres illuminé d’une lumière rouge, cependant cette tour n’a aucune entré en dehors des fenêtre. On ignore qui occupe ce bâtiment ou son utilité. Cependant dans les différentes chambres observé certain meubles ont été vu changé de place. Le bâtiment tout entier émet un battement et des vibrations ce qui laisse penser que c’est un être vivant. A son sommets des nuages noir et orageux couvrent le toit. Si du sang est présent non loin le mur le plus proche du bâtiment vas se déformé et allez le toucher pour l’absorbé, aucun être vivant n’a été vu dans les chambres et une fois entré par une des fenêtre via un grappin ou un parachutes avec les vent montant qui l’entoure impossible d’ouvrire la porte menant en dehors de la chambre, même avec des explosif, cependant lors des expéditions mener par le docteur Reverso, il semblerait que rarement la porte d’un des chambre s’ouvre le temp de quelques seconde, toute communication avec un individu qui la voit s’ouvrir ou ouverte est coupé et la personne n’est jamais retrouvé. Cette tour émet des miasmes qui semblent faire naître des Furies, des sortes de créatures volantes noires avec des yeux rouges extrêmement rapides et agressives qui tuent tout ce qui vit. Il y eut une guerre contre ces entité née des miasmes qui causa de nombreux morts, beaucoup de sang coula et ont raconté que la tour se déformait constamment. Les chambres à l'intérieur ont quasiment toujours la même composition, une chambre avec peut de meuble et une vieille moquette. Parfois une des chambre vois sa lumière rouge devenir jaune, ont ignore pourquoi. Certains pensent que les âmes des morts sont enfermées dans cette tour et y vivent, corrompues, torturées et séquestrées à l'intérieur, et que la tour digère les âmes pour les rejeter sous forme de Furies.",
             "frames": "1",
         },
@@ -444,7 +444,7 @@ var maps = {
     "le_chateau_du_roi_Vick": {
         "infos": {
             "title": "Le Chateau du roi Vick",
-            "description": "",
+            "description": "Le château du roi, celui ci est construit d'un marbre d'exception illustrant la richesse de l'homme qui y vie avec ses plus proches amis et les bourgeois les plus riches, c'est un cercle très fermé, tellement que c'est à un point où il n'y à ni champ ni ville autour à des kilomètres autour. Le roi est un homme peureux, il à peur pour sa vie, ne se montre jamais, ne parle jamais à ceux qu'il ne connaît pas, beaucoup se demander si il n'est pas mort. Son nom est Vick I et il n'a jamais communiquer sur le fait d'avoir une descendance ou non, nous savons juste que par sa faute le système monétaire est défaillant, la garde royale quasiment inutile car focaliser à l'intérieur du château pour le défendre en cas d'attaque, il à peur de son propre peuple et le méprise. Il à un fort égo et est très fragile mais aussi craintif. Aux yeux de la population, ce château n'est qu'une vaste blague qui sert encore maladroitement à l'image de la couronne dont la force s'efface peu à peu, remplacée par la capitale de son propre continent.",
             "frames": "1",
         },
         "path": {
@@ -479,7 +479,7 @@ var maps = {
     },
     "le_gouffre": {
         "infos": {
-            "title": "",
+            "title": "Le gouffre",
             "description": "Le gouffre sans fond est un troue dans une île qui semble ne jamais finir. S'engouffrant dans les obscuritées les plus profondes et les plus inconnus de la race humaine, plus on descend plus ont est susceptible de croiser des entité étranges et hostile mais aussi des morts car nombreux sont ceux qui y sont descendus avec l'espoir de devenir riche et de découvrir quelque chose qui changerait le monde. Malgré son côté dangereux, un peuple vit aux extrémités du gouffre pas trop profondément. Ils vivent des animaux qui en remontent ou de la pêche et font comme commerce de la vente de minerai rare des profondeur. À un certain point de profondeur il est impossible de voir, on atteint des couloirs verticaux resserrés, aussi petits qu'un homme où la moindre lumière ne passe pas même en allumant une lampe la flamme n'émet plus de lumière. Les quelques fou qui y descendent doivent se couché et avancé en rampant dans le noir absolue, tous s'y perdent et restent coincé dans le noir absolue ou bloqué dans un cul de sac couché, leur hurlement incapable d'atteindre la surface, même le soleil ne souhaite pas voir sa lumière allé aussi bas.",
             "frames": "1",
         },
@@ -521,7 +521,7 @@ var maps = {
     },
     "le_magasin": {
         "infos": {
-            "title": "",
+            "title": "Le magasin",
             "description": "Le magasin est un bâtiment fermé depuis longtemps déjà, les raisons de la fermeture du magasin sont floues. Cependant celui-ci reste atypique car il ne vendait quasiment que des tapis et des outils rudimentaires, à l'arrière boutique une pièce dont les murs et le plafond sont remplis de peluche clouée avec un écran incrusté à un endroit caché une porte menant à une cage d'escalier. Cet escalier descend assez profond et plus on descend plus le lieu absorbe la lumière qui est remplacé par une lumière légère voilette jusqu'en fin atteindre un sol. En bas il y à une porte blindé entre ouverte depuis peu avec à l'intérieur une salle pleine de mirroire, ceux ci pour une raison inconnue permettent de voir ‘la vérité’ et de prendre conscience du monde comme un éveil et d'échapper au fil de l'existence et de la narration. En touchant le miroir, on rentre dans un monde exactement similaire à l'autre sans aucun changement à part certains arbres remplacés par des dessins d'arbres et le fait que tous les êtres humains sont en vie et que certains continents ont doublé de volume. Ainsi ce lieu est un fléau car toute personne étant en vie après les années deux mille y sont encore en vie mais altéré soit physiquement soit mentalement plus ou moins fort. Le lieu à deux problématiques, la première est le fait qu'un individu ayant fait face à la vérité est autrement instable et dangereux pour toute personne qu'il croise entrant dans une sorte de transe existentiel qui pousse au meurtre. La deuxième problématique est le remplacement lent mais sûr de proches en leur version altérée et l'arrivée de personnes mortes dans notre monde en version altérée. Ainsi le monde que l'on connaît et notre entourage est petit à petit remplacé sans qu'on s'en rend compte et généralement on s'en rend compte que trop tard quand les propriétés étranges et surréel des versions altérées commencent à se développer. Quelqu'un doit fermer cette porte mais personne ne sait qu'elle est ouverte et qu'elle est l'épicentre de cet événement horrifique. Ont remarque que à partir du moment où ont entame la descente de l'escalier ont est dans un état second comme en fin de soirée et en ressortant nous n'avons que des souvenirs vagues. Lentement ce lieu à corrompu la quasi intégralité des mirroire de Morry multipliant la vitesse de remplacement des êtres humain en leur version altérée. Remarqué que plus on s'éloigne du miroir dont ont est rentré plus le monde se tord et perd sa logique. Les altérations peuvent aller d'un simple doigt en plus à des membres atrophié ou des déformations sévère, ou simplement légèrement plus de cheveux, des ongles plus longs ou des yeux de couleur différente. Le taux de modification corporelle dépend uniquement du facteur social, plus l'individu est seul plus il sa copie sera altéré plus il sera socialement connecter plus les modification seront moindre jusqu'à aléatoirement entré dans une phase agressive où il adoptera temporairement les traits et les modifications d'un altéré socialement coupé du monde, dans cet état il remplacera autant de personnes que possible par un altéré avant de revenir à son état d'origine. Leur manière de parler et d'agir semble être des copies d'action humaine et les individus remplacés n'ont jamais été retrouvés présument morts.",
             "frames": "1",
         },
@@ -532,7 +532,7 @@ var maps = {
     "le_monde_de_l_eclat": {
         "infos": {
             "title": "Le monde de l'eclat",
-            "description": "",
+            "description": "Lumière vive au fond de l'univers, esprit divin plongé de pureté éclairant son univers de sa bienveillance et son intelligence. Ce monde est une boule jaune lumineuse, le seul moyen d'entrer dedans et de fermer les yeux alors qu'on se rapproche pour ne pas perdre la vue et entrer à l'intérieur de cette boule de lumière. L'entité divine qui y existe est pacifique, elle apprécie l'ordre et le calme, mais aussi l'aventure et la fougue. Représenté par un sourire dans la lumière dans les récits de foie, l'éclat mène avec Jenny cet univers varié et complexe. Cependant pour certains cette lumière au fond de l'univers et tente une sorte de portail de l'espoir qu'une horrifiante vision cosmique.",
             "frames": "1",
         },
         "path": {
@@ -571,7 +571,7 @@ var maps = {
     },
     "le_royaume_des_nuages": {
         "infos": {
-            "title": "",
+            "title": "Le royaume des nuages",
             "description": "Le Royaume des nuages est un lieu étrange. Son plus grand bâtiment à l’intégralité de sa population. Une population arrogante, égoïste, une race humanoïde avec des détail physiques différent et une espérance de vie bien plus large que l’homme, on ne peut être sur le territoire qu’avec des artéfacts permettant de marché sur les nuages. Les bâtiments tout autour sont pour la plupart vide, les rues sont sans mouvement et fabriqué de nuage modelé. Parfois dans certaines maisons on peut entendre une mélodie. Le territoire est calme et sans danger en dehors du bâtiment principale où coule à flots alcool et nourriture chez ce peuple qui ne dort jamais, cependant une race d'animaux volatile l’entoure et vole autour, ils vivent  à l'intérieur de la montagne inversé dans des grottes et sources chassé autour du royaume ds nuages en journé. Le dirigeant est un homme barbue, grossier et gras, cependant la légende raconte qu’il y à longtemps les rues étaient pleines de ressources et de denrée rare, animé de plusieur marché, son dirigeant charismatique ayant pourfendue aux côtés du docteur Reverso les Furies sorties de la tour des ténèbres. Puis après un long silence où plus personne ne pouvait s’y rendre un contact offra dix artéfacts pour s’y rendre à Mike. L’homme qui le dirige est supposé être le fils du héros de guerre et il se noie dans l’alcool et refuse de parler de ce qui à pu se passer qui aurait causé le vidage des rues et l'arrivée de la décadence d’un peuple autrefois noble. Malgré tout les habitants de l’Eterniel regardent ce royaume de nuage avec bon espoir qu’un jour son leader charismatique légendaire revienne à la rencontre du peuple de la terre.",
             "frames": "1",
         },
