@@ -308,7 +308,10 @@ var maps = {
             "0.255.0": "la_capitale",
             "0.0.255": "la_ville_submergee",
             "255.255.0": "l_ile_volcanique",
-            "0.255.255": "les_montagnes_du_sud"
+            "0.255.255": "les_montagnes_du_sud",
+            "100.0.100": "le_chateau_du_roi_Vick",
+            "0.0.100": "le_gouffre",
+            "0.100.100": "l_entree_de_l_antre_du_basilique"
         }
     },
     "la_dimension_des_coroses": {
@@ -322,7 +325,10 @@ var maps = {
             "0.255.0": "la_capitale",
             "0.0.255": "la_ville_submergee",
             "255.255.0": "l_ile_volcanique",
-            "0.255.255": "les_montagnes_du_sud"
+            "0.255.255": "les_montagnes_du_sud",
+            "100.0.100": "le_chateau_du_roi_Vick",
+            "0.0.100": "le_gouffre",
+            "0.100.100": "la_dimension_des_coroses_v2"
         }
     },
     "la_lune_de_sang": {
@@ -406,6 +412,15 @@ var maps = {
         },
         "path": {
             "255.0.0": "neviss"
+        }
+    },
+    "le_chateau_du_roi_Vick": {
+        "infos": {
+            "title": "Le Chateau du roi Vick",
+            "description": "",
+            "frames": "1",
+        },
+        "path": {
         }
     },
     "le_cimetiere": {
